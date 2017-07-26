@@ -1,0 +1,570 @@
+icgc_donor_id	project_code	submitted_donor_id	first_therapy_type	first_therapy_therapeutic_intent	first_therapy_start_interval	first_therapy_duration	first_therapy_response	second_therapy_type	second_therapy_therapeutic_intent	second_therapy_start_interval	second_therapy_duration	second_therapy_response	other_therapy	other_therapy_response
+DO218489	BRCA-EU	CGP_donor_1451427	no treatment	not applicable				no treatment	not applicable					
+DO218488	BRCA-EU	CGP_donor_1451422	chemotherapy	adjuvant	100	182	unknown	other therapy	adjuvant	262			Hormone_therapy	therapy still ongoing
+DO218478	BRCA-EU	CGP_donor_1364029	radiation therapy	adjuvant			unknown	other therapy	adjuvant				5x FEC+TAM(5y)	unknown
+DO218457	BRCA-EU	CGP_donor_1397277	chemotherapy	adjuvant			complete response	other therapy	adjuvant			complete response	Hormone_therapy, tamoxifen	unknown
+DO218428	BRCA-EU	CGP_donor_1337223	no treatment	not applicable				no treatment	not applicable					
+DO218419	BRCA-EU	CGP_donor_1333048	other therapy	adjuvant				chemotherapy	adjuvant			unknown	Anthracyclin	unknown
+DO218404	BRCA-EU	CGP_donor_1374616	other therapy	adjuvant		1826	complete response	no treatment	not applicable				Targeted_therapy, 5yr tamoxifen	unknown
+DO218408	BRCA-EU	CGP_donor_1397264	chemotherapy	curative			unknown	no treatment	not applicable					
+DO218502	BRCA-EU	CGP_donor_1234121	radiation therapy	adjuvant			unknown	other therapy	adjuvant				5x FEC + TAM/AI	unknown
+DO218506	BRCA-EU	CGP_donor_1353426	chemotherapy	curative			unknown	no treatment	not applicable					
+DO218583	BRCA-EU	CGP_donor_1503021	chemotherapy	curative			unknown	no treatment	not applicable					
+DO218573	BRCA-EU	CGP_donor_1503014	chemotherapy	curative			unknown	no treatment	not applicable					
+DO218560	BRCA-EU	CGP_donor_1503019	chemotherapy	curative			unknown	no treatment	not applicable					
+DO218553	BRCA-EU	CGP_donor_1475201	chemotherapy	curative			unknown	no treatment	not applicable					
+DO220824	BRCA-EU	CGP_donor_1397261	chemotherapy	curative			unknown	no treatment	not applicable					
+DO220823	BRCA-EU	CGP_donor_1353428	radiation therapy	curative			unknown	no treatment	not applicable					
+DO220826	BRCA-EU	CGP_donor_1472408	chemotherapy	adjuvant			unknown	radiation therapy	adjuvant			unknown		
+DO220825	BRCA-EU	CGP_donor_1451426	chemotherapy	adjuvant	79	62	unknown	other therapy	adjuvant	168			Hormone_therapy, Tamoxifen	therapy still ongoing
+DO220820	BRCA-EU	CGP_donor_1337240	other therapy	adjuvant				no treatment	not applicable				Hormone_therapy, Anastrozole	unknown
+DO220822	BRCA-EU	CGP_donor_1230755	other therapy	not applicable				no treatment	not applicable				Hormone_therapy, Tamoxifen	unknown
+DO220821	BRCA-EU	CGP_donor_1187025	no treatment	not applicable				no treatment	not applicable					
+DO220828	BRCA-EU	CGP_donor_1475202	chemotherapy	curative			unknown	no treatment	not applicable					
+DO220827	BRCA-EU	CGP_donor_1472409	other therapy	adjuvant	34		stable disease	no treatment	not applicable				Hormone_therapy, Arimidex	unknown
+DO218621	BRCA-EU	CGP_donor_1397284	radiation therapy	adjuvant			unknown	other therapy	adjuvant				Hormone_therapy, anastrozol/letrozol	unknown
+DO218611	BRCA-EU	CGP_donor_1374617	chemotherapy	adjuvant			complete response	radiation therapy	adjuvant			complete response		
+DO218605	BRCA-EU	CGP_donor_1397260	chemotherapy	curative			unknown	no treatment	not applicable					
+DO218698	BRCA-EU	CGP_donor_1234122	radiation therapy	adjuvant			unknown	other therapy	adjuvant				6x TAC+TAM(2.5y)/AI(2.5y)	unknown
+DO218684	BRCA-EU	CGP_donor_1353434	no treatment	not applicable				no treatment	not applicable					
+DO218669	BRCA-EU	CGP_donor_1397278	no treatment	not applicable				no treatment	not applicable					
+DO218656	BRCA-EU	CGP_donor_1347723	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO218651	BRCA-EU	CGP_donor_1347742	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO218742	BRCA-EU	CGP_donor_1232859	other therapy	adjuvant				chemotherapy	adjuvant			unknown	unknown	unknown
+DO218736	BRCA-EU	CGP_donor_1397266	no treatment	not applicable				no treatment	not applicable					
+DO218719	BRCA-EU	CGP_donor_1503128	other therapy	adjuvant	61			no treatment	not applicable				Hormone_therapy, Anastrazole (Arimidex)	therapy still ongoing
+DO218709	BRCA-EU	CGP_donor_1353427	chemotherapy	curative			unknown	no treatment	not applicable					
+DO218796	BRCA-EU	CGP_donor_1337217	chemotherapy	adjuvant	47	83	stable disease	no treatment	not applicable					
+DO218770	BRCA-EU	CGP_donor_1397088	chemotherapy	adjuvant	96	91	complete response	other therapy	adjuvant	159			Hormone_therapy, Tamoxifen	therapy still ongoing
+DO218831	BRCA-EU	CGP_donor_1374618	other therapy	adjuvant			disease progression	no treatment	not applicable				Targeted_therapy, Arimidex	unknown
+DO218828	BRCA-EU	CGP_donor_1337231	chemotherapy	adjuvant	61	140	unknown	radiation therapy	adjuvant		38	unknown		
+DO218827	BRCA-EU	CGP_donor_1337236	chemotherapy	adjuvant			unknown	radiation therapy	adjuvant	52	48	stable disease		
+DO217826	BRCA-EU	CGP_donor_1163904	chemotherapy	adjuvant	88	66	complete response	other therapy	adjuvant	182			Hormone_therapy, Tamoxifen	unknown
+DO217800	BRCA-EU	CGP_donor_1397279	no treatment	not applicable				no treatment	not applicable					
+DO217788	BRCA-EU	CGP_donor_1347731	radiation therapy	curative			unknown	no treatment	not applicable					
+DO217786	BRCA-EU	CGP_donor_1337220	radiation therapy	adjuvant		28	unknown	other therapy	adjuvant	67		stable disease	Hormone_therapy, Arimidex	unknown
+DO217787	BRCA-EU	CGP_donor_1337225	no treatment	not applicable				no treatment	not applicable					
+DO217939	BRCA-EU	CGP_donor_1186987	radiation therapy	adjuvant			unknown	chemotherapy	adjuvant			unknown		
+DO217931	BRCA-EU	CGP_donor_1503150	chemotherapy	adjuvant	108	213	unknown	other therapy	adjuvant	264			Hormone_therapy, Arimidex	therapy still ongoing
+DO217934	BRCA-EU	CGP_donor_1337218	no treatment	not applicable				no treatment	not applicable					
+DO217907	BRCA-EU	CGP_donor_1364033	other therapy	adjuvant				no treatment	not applicable				Targeted_therapy, TAM(2.5y)/AI(2.5y)	unknown
+DO217908	BRCA-EU	CGP_donor_1230796	radiation therapy	adjuvant			unknown	other therapy	adjuvant				Hormone therapy	unknown
+DO217887	BRCA-EU	CGP_donor_1397262	chemotherapy	curative			unknown	no treatment	not applicable					
+DO217865	BRCA-EU	CGP_donor_1503016	chemotherapy	curative			unknown	no treatment	not applicable					
+DO217844	BRCA-EU	CGP_donor_1234123	radiation therapy	adjuvant			unknown	other therapy	adjuvant				6x TAC+TAM(2.5y)/AI(2.5y)	unknown
+DO217987	BRCA-EU	CGP_donor_1337226	chemotherapy	adjuvant			unknown	radiation therapy	adjuvant		28	stable disease		
+DO217962	BRCA-EU	CGP_donor_1337237	chemotherapy	adjuvant			unknown	radiation therapy	adjuvant		37	unknown		
+DO217953	BRCA-EU	CGP_donor_1397281	chemotherapy	adjuvant			complete response	other therapy	adjuvant				Hormone_therapy, tamoxifen	unknown
+DO217952	BRCA-EU	CGP_donor_1425260	no treatment	not applicable				no treatment	not applicable					
+DO225056	BRCA-EU	CGP_donor_1499738	other therapy	not applicable				no treatment	not applicable				Hormone_therapy, Tamoxifen	unknown
+DO225054	BRCA-EU	CGP_donor_1483817	chemotherapy	adjuvant	68	111	unknown	radiation therapy	adjuvant	217	43	unknown		
+DO225051	BRCA-EU	CGP_donor_1478547	combined chemo+radiation therapy	adjuvant	103	167	complete response	other therapy	adjuvant	277			1st therapy - ddAC-taxol +Radiation; 2nd therapy - Hormone_therapy, Tamoxifen, therapy still ongoing	unknown
+DO225059	BRCA-EU	CGP_donor_1502907	radiation therapy	adjuvant			unknown	no treatment	not applicable					
+DO225058	BRCA-EU	CGP_donor_1499741	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225067	BRCA-EU	CGP_donor_1503018	chemotherapy	adjuvant			unknown	radiation therapy	adjuvant			unknown		
+DO225065	BRCA-EU	CGP_donor_1503015	chemotherapy	adjuvant			unknown	radiation therapy	adjuvant			unknown		
+DO225063	BRCA-EU	CGP_donor_1502912	chemotherapy	adjuvant			unknown	other therapy	adjuvant				1st therapy - TAC; 2nd therapy - Targeted_therapy, tamoxifen	unknown
+DO225061	BRCA-EU	CGP_donor_1502909	radiation therapy	adjuvant			unknown	no treatment	not applicable					
+DO225070	BRCA-EU	CGP_donor_1503022	chemotherapy	adjuvant			unknown	radiation therapy	adjuvant			unknown		
+DO225078	BRCA-EU	CGP_donor_1503135	no treatment	not applicable				no treatment	not applicable					
+DO225077	BRCA-EU	CGP_donor_1503132	radiation therapy	adjuvant	152	30	unknown	other therapy	adjuvant	365			1st therapy - note** patient had rad. At another hospital so no specific dates given; Columns CE and CF calculate based on info given in the notes and assumption that she had 4 cycles of rad and her rad. Therapy lasted a month; 2nd therapy - Hormone_therapy, Tamoxifen, therapy still ongoing	unknown
+DO225076	BRCA-EU	CGP_donor_1503130	combined chemo+radiation therapy	adjuvant	91	121	complete response	other therapy	adjuvant				1st therapy - Taxotere/Cytoxan+ rad( end date of rad NA; ~ 4 wks; included in therapy1 duration); 2nd therapy - Hormone_therapy, con't of her Aromatase inhibitor from 2005 cancer. Therapy still ongoing	unknown
+DO225074	BRCA-EU	CGP_donor_1503129	chemotherapy	adjuvant	102	82	complete response	other therapy	adjuvant	244			1st therapy - AC-taxol; 2nd therapy - Hormone_therapy, Tamoxifen, therapy still ongoing	unknown
+DO225072	BRCA-EU	CGP_donor_1503023	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225079	BRCA-EU	CGP_donor_1503136	chemotherapy	adjuvant	68	89	complete response	no treatment	not applicable					
+DO225081	BRCA-EU	CGP_donor_1503143	combined chemo+radiation therapy	adjuvant	56	103	complete response	radiation therapy	adjuvant	186	35	complete response		
+DO225080	BRCA-EU	CGP_donor_1503142	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225089	BRCA-EU	CGP_donor_1508786	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO225088	BRCA-EU	CGP_donor_1508754	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225087	BRCA-EU	CGP_donor_1503157	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225086	BRCA-EU	CGP_donor_1503155	combined chemo+radiation therapy	adjuvant	76	31	complete response	radiation therapy	adjuvant	133	46	complete response		
+DO225085	BRCA-EU	CGP_donor_1503151	combined chemo+radiation therapy	adjuvant	88	193	complete response	other therapy	adjuvant	304			1st therapy - AC chemo+Radiation; 2nd therapy - Hormone_therapy, Letrozole, therapy still ongoing	unknown
+DO225084	BRCA-EU	CGP_donor_1503148	chemotherapy	adjuvant	114	62	unknown	other therapy	adjuvant	248			1st therapy - Taxotere/Cytoxan; 2nd therapy - Hormone_therapy, Tamoxifen (9 months- menopausal status change to post); Letrozole on 7/2012. Therapy still ongoing	unknown
+DO225083	BRCA-EU	CGP_donor_1503146	combined chemo+radiation therapy	adjuvant	38	109	complete response	no treatment	not applicable					
+DO225082	BRCA-EU	CGP_donor_1503144	chemotherapy	adjuvant	84	127	unknown	other therapy	adjuvant	225			1st therapy - Adriamycin/Cytoxan/radiation; 2nd therapy - Hormone_therapy, Tamoxifen, therapy still ongoing	unknown
+DO225092	BRCA-EU	CGP_donor_1512434	chemotherapy	adjuvant			unknown	radiation therapy	adjuvant			unknown		
+DO225091	BRCA-EU	CGP_donor_1512432	chemotherapy	adjuvant			unknown	other therapy	adjuvant				1st therapy - 4TC; 2nd therapy - Hormone_therapy	unknown
+DO225090	BRCA-EU	CGP_donor_1508792	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO225099	BRCA-EU	CGP_donor_1518139	no treatment	not applicable				no treatment	not applicable					
+DO225098	BRCA-EU	CGP_donor_1518138	other therapy	adjuvant				no treatment	not applicable				Targeted_therapy, Arimidex	unknown
+DO225097	BRCA-EU	CGP_donor_1512441	chemotherapy	adjuvant			unknown	radiation therapy	adjuvant			unknown		
+DO225096	BRCA-EU	CGP_donor_1512440	chemotherapy	adjuvant			unknown	radiation therapy	adjuvant			unknown		
+DO225095	BRCA-EU	CGP_donor_1512439	chemotherapy	adjuvant			unknown	radiation therapy	adjuvant			unknown		
+DO225094	BRCA-EU	CGP_donor_1512436	no treatment	not applicable				no treatment	not applicable					
+DO225093	BRCA-EU	CGP_donor_1512435	chemotherapy	adjuvant			unknown	radiation therapy	adjuvant			unknown		
+DO225001	BRCA-EU	CGP_donor_1451424	radiation therapy	adjuvant	77	47	complete response	other therapy	adjuvant	128			2nd therapy - Hormone_therapy, Tamoxifen, therapy still ongoing	unknown
+DO225009	BRCA-EU	CGP_donor_1456607	chemotherapy	adjuvant	70	105	complete response	radiation therapy	adjuvant	59	52	complete response		
+DO225007	BRCA-EU	CGP_donor_1456475	radiation therapy	adjuvant			unknown	other therapy	adjuvant				2nd therapy - Hormone_therapy, tamoxifen	unknown
+DO225005	BRCA-EU	CGP_donor_1451641	radiation therapy	adjuvant			unknown	chemotherapy	adjuvant			unknown		
+DO225004	BRCA-EU	CGP_donor_1451633	radiation therapy	adjuvant	36929		unknown	chemotherapy	adjuvant			unknown		
+DO225002	BRCA-EU	CGP_donor_1451425	chemotherapy	adjuvant	78	96	complete response	surgery	adjuvant	520		disease progression		
+DO225012	BRCA-EU	CGP_donor_1456609	chemotherapy	adjuvant	59	70	complete response	no treatment	not applicable					
+DO225019	BRCA-EU	CGP_donor_1472403	chemotherapy	adjuvant			unknown	other therapy	adjuvant	33			1st therapy - Curative; TAC * 6 cycles; 2nd therapy - Hormone_therapy, Arimidex	unknown
+DO225017	BRCA-EU	CGP_donor_1472399	radiation therapy	adjuvant	30	35	unknown	no treatment	not applicable					
+DO225015	BRCA-EU	CGP_donor_1472395	chemotherapy	adjuvant	60	116	complete response	no treatment	not applicable					
+DO225013	BRCA-EU	CGP_donor_1472394	chemotherapy	adjuvant	5	126	unknown	radiation therapy	adjuvant		35	stable disease		
+DO225023	BRCA-EU	CGP_donor_1472410	other therapy	adjuvant				no treatment	not applicable				Hormone_therapy, Femara	unknown
+DO225022	BRCA-EU	CGP_donor_1472407	chemotherapy	adjuvant	28		stable disease	radiation therapy	adjuvant		122	stable disease		
+DO225028	BRCA-EU	CGP_donor_1472412	no treatment	not applicable				no treatment	not applicable					
+DO225025	BRCA-EU	CGP_donor_1472411	chemotherapy	adjuvant			unknown	radiation therapy	adjuvant			unknown		
+DO225034	BRCA-EU	CGP_donor_1475196	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225032	BRCA-EU	CGP_donor_1475195	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225030	BRCA-EU	CGP_donor_1472414	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO225039	BRCA-EU	CGP_donor_1475199	chemotherapy	adjuvant			unknown	no treatment	not applicable					
+DO225037	BRCA-EU	CGP_donor_1475198	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225035	BRCA-EU	CGP_donor_1475197	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225044	BRCA-EU	CGP_donor_1475209	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225042	BRCA-EU	CGP_donor_1475204	chemotherapy	adjuvant			unknown	radiation therapy	adjuvant			unknown		
+DO225049	BRCA-EU	CGP_donor_1478545	combined chemo+radiation therapy	adjuvant	68	154	complete response	other therapy	adjuvant	255	2395	complete response	1st therapy - AC+Taxol+Radiation; 2nd therapy - Hormone_therapy, tamoxife-777aromasin	unknown
+DO225048	BRCA-EU	CGP_donor_1478544	combined chemo+radiation therapy	adjuvant	74	152	complete response	no treatment	not applicable					
+DO225046	BRCA-EU	CGP_donor_1478543	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO225207	BRCA-EU	CGP_donor_1686147	chemotherapy	curative	39	108	partial response	radiation therapy	adjuvant	202	34	unknown		
+DO225206	BRCA-EU	CGP_donor_1686145	radiation therapy	adjuvant	65	22	unknown	no treatment	not applicable					
+DO225205	BRCA-EU	CGP_donor_1686144	chemotherapy	curative	61	117	partial response	radiation therapy	adjuvant	285	22	unknown		
+DO225204	BRCA-EU	CGP_donor_1686143	radiation therapy	adjuvant	74	29	unknown	no treatment	not applicable					
+DO225203	BRCA-EU	CGP_donor_1686141	radiation therapy	adjuvant	62	21	unknown	chemotherapy	adjuvant	99	104	unknown		
+DO225202	BRCA-EU	CGP_donor_1654399	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225201	BRCA-EU	CGP_donor_1654398	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO225200	BRCA-EU	CGP_donor_1654397	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225209	BRCA-EU	CGP_donor_1686150	other therapy	not applicable	21	67		other therapy	adjuvant	89	139		1st therapy - Hormone_therapy, Tamoxifen 20mg/day; 2nd therapy - Hormone_therapy, Tamoxifen 20mg/day; 3rd therapy - Hormone_therapy, Femara 2.5mg/day	unknown
+DO225208	BRCA-EU	CGP_donor_1686149	radiation therapy	adjuvant	68	29	unknown	chemotherapy	adjuvant	111	103	unknown		
+DO225177	BRCA-EU	CGP_donor_1606189	chemotherapy	adjuvant	45	720	complete response	no treatment	not applicable					
+DO225176	BRCA-EU	CGP_donor_1606188	other therapy	not applicable	4100	180	complete response	no treatment	not applicable				surgery+chemotherapy, cmfx6	unknown
+DO225175	BRCA-EU	CGP_donor_1606187	other therapy	not applicable	25	410	complete response	no treatment	not applicable				surgery+Hormone_therapy	unknown
+DO225174	BRCA-EU	CGP_donor_1606184	chemotherapy	adjuvant	50	900	complete response	no treatment	not applicable					
+DO225173	BRCA-EU	CGP_donor_1606183	other therapy	adjuvant	40	720	complete response	no treatment	not applicable				Hormone_therapy	unknown
+DO225172	BRCA-EU	CGP_donor_1606182	chemotherapy	adjuvant	30	720	complete response	no treatment	not applicable					
+DO225171	BRCA-EU	CGP_donor_1606180	other therapy	adjuvant	25	730	complete response	no treatment	not applicable				Hormone_therapy, Tamoxifen	unknown
+DO225170	BRCA-EU	CGP_donor_1606179	other therapy	adjuvant	30	720	complete response	no treatment	not applicable				Hormone_therapy, Exemestane	unknown
+DO225179	BRCA-EU	CGP_donor_1606193	no treatment	not applicable				no treatment	not applicable					
+DO225178	BRCA-EU	CGP_donor_1606192	other therapy	adjuvant	60	660	complete response	no treatment	not applicable				Hormone_therapy, Aromatase inhib	unknown
+DO225180	BRCA-EU	CGP_donor_1606194	surgery	curative			complete response	no treatment	not applicable					
+DO225188	BRCA-EU	CGP_donor_1653982	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225187	BRCA-EU	CGP_donor_1653981	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225186	BRCA-EU	CGP_donor_1653980	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225185	BRCA-EU	CGP_donor_1653979	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225184	BRCA-EU	CGP_donor_1622017	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225183	BRCA-EU	CGP_donor_1622016	chemotherapy	adjuvant	75	174	unknown	other therapy	adjuvant	274			1st therapy - Adriamcyin/Cytoxam+ Taxol+ radiation; 2nd therapy - Hormone therapy, Tamoxifen, therapy still ongoing	unknown
+DO225182	BRCA-EU	CGP_donor_1622014	other therapy	adjuvant	72	1084		no treatment	not applicable				1st therapy - Hormone_therapy, Tamoxifen- stopped in 2 years at will	unknown
+DO225181	BRCA-EU	CGP_donor_1606196	surgery	curative	80	210	complete response	no treatment	not applicable					
+DO225189	BRCA-EU	CGP_donor_1653983	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225191	BRCA-EU	CGP_donor_1653985	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225190	BRCA-EU	CGP_donor_1653984	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225199	BRCA-EU	CGP_donor_1654394	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225198	BRCA-EU	CGP_donor_1654393	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225197	BRCA-EU	CGP_donor_1654391	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225196	BRCA-EU	CGP_donor_1654389	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225195	BRCA-EU	CGP_donor_1654386	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO225194	BRCA-EU	CGP_donor_1654385	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO225193	BRCA-EU	CGP_donor_1654384	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO225192	BRCA-EU	CGP_donor_1654383	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO225100	BRCA-EU	CGP_donor_1518140	radiation therapy	adjuvant			unknown	other therapy	adjuvant				1st therapy - RT(mam,nodes); 2nd therapy - Targeted_therapy, TAM	unknown
+DO225108	BRCA-EU	CGP_donor_1589418	chemotherapy	curative			unknown	no treatment	not applicable					
+DO225107	BRCA-EU	CGP_donor_1585429	chemotherapy	curative		84	partial response	surgery	adjuvant			unknown		
+DO225106	BRCA-EU	CGP_donor_1585428	chemotherapy	curative		84	partial response	surgery	adjuvant			unknown		
+DO225105	BRCA-EU	CGP_donor_1540795	radiation therapy	adjuvant	40786	21	unknown	chemotherapy	adjuvant			unknown		
+DO225104	BRCA-EU	CGP_donor_1540792	radiation therapy	adjuvant	40632	28	unknown	chemotherapy	adjuvant			unknown		
+DO225103	BRCA-EU	CGP_donor_1540791	radiation therapy	adjuvant		21	unknown	chemotherapy	adjuvant			unknown		
+DO225102	BRCA-EU	CGP_donor_1518143	no treatment	not applicable				no treatment	not applicable					
+DO225101	BRCA-EU	CGP_donor_1518141	no treatment	not applicable				no treatment	not applicable					
+DO225109	BRCA-EU	CGP_donor_1589419	chemotherapy	curative			unknown	no treatment	not applicable					
+DO225111	BRCA-EU	CGP_donor_1589421	chemotherapy	curative			unknown	no treatment	not applicable					
+DO225110	BRCA-EU	CGP_donor_1589420	chemotherapy	curative			unknown	no treatment	not applicable					
+DO225119	BRCA-EU	CGP_donor_1589429	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225118	BRCA-EU	CGP_donor_1589428	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225117	BRCA-EU	CGP_donor_1589427	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225116	BRCA-EU	CGP_donor_1589426	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225115	BRCA-EU	CGP_donor_1589425	chemotherapy	curative			unknown	no treatment	not applicable					
+DO225114	BRCA-EU	CGP_donor_1589424	chemotherapy	curative			unknown	no treatment	not applicable					
+DO225113	BRCA-EU	CGP_donor_1589423	chemotherapy	curative			unknown	no treatment	not applicable					
+DO225112	BRCA-EU	CGP_donor_1589422	chemotherapy	curative			unknown	no treatment	not applicable					
+DO225122	BRCA-EU	CGP_donor_1599340	radiation therapy	adjuvant	39216	22	unknown	chemotherapy	adjuvant			unknown		
+DO225121	BRCA-EU	CGP_donor_1589431	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225120	BRCA-EU	CGP_donor_1589430	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225129	BRCA-EU	CGP_donor_1599352	radiation therapy	adjuvant			unknown	chemotherapy	adjuvant	39528	39633	unknown		
+DO225128	BRCA-EU	CGP_donor_1599349	radiation therapy	adjuvant		19	unknown	chemotherapy	adjuvant			unknown		
+DO225127	BRCA-EU	CGP_donor_1599348	radiation therapy	adjuvant	39457	21	unknown	chemotherapy	adjuvant			unknown		
+DO225126	BRCA-EU	CGP_donor_1599347	radiation therapy	adjuvant			unknown	chemotherapy	adjuvant			unknown		
+DO225125	BRCA-EU	CGP_donor_1599346	radiation therapy	adjuvant			unknown	chemotherapy	adjuvant			unknown		
+DO225124	BRCA-EU	CGP_donor_1599345	radiation therapy	adjuvant			unknown	chemotherapy	adjuvant			unknown		
+DO225123	BRCA-EU	CGP_donor_1599343	radiation therapy	adjuvant		22	unknown	chemotherapy	adjuvant			unknown		
+DO225133	BRCA-EU	CGP_donor_1599356	radiation therapy	adjuvant		21	unknown	chemotherapy	adjuvant			unknown		
+DO225132	BRCA-EU	CGP_donor_1599355	radiation therapy	adjuvant			unknown	chemotherapy	adjuvant			unknown		
+DO225131	BRCA-EU	CGP_donor_1599354	radiation therapy	adjuvant			unknown	chemotherapy	adjuvant			unknown		
+DO225130	BRCA-EU	CGP_donor_1599353	radiation therapy	adjuvant	39539	22	unknown	chemotherapy	adjuvant			unknown		
+DO225139	BRCA-EU	CGP_donor_1599364	radiation therapy	adjuvant		21	unknown	chemotherapy	adjuvant			unknown		
+DO225138	BRCA-EU	CGP_donor_1599363	radiation therapy	adjuvant		19	unknown	chemotherapy	adjuvant			unknown		
+DO225137	BRCA-EU	CGP_donor_1599362	radiation therapy	adjuvant		19	unknown	chemotherapy	adjuvant			unknown		
+DO225136	BRCA-EU	CGP_donor_1599360	radiation therapy	adjuvant		21	unknown	chemotherapy	adjuvant			unknown		
+DO225135	BRCA-EU	CGP_donor_1599358	radiation therapy	adjuvant			unknown	chemotherapy	adjuvant			unknown		
+DO225134	BRCA-EU	CGP_donor_1599357	radiation therapy	adjuvant		21	unknown	chemotherapy	adjuvant			unknown		
+DO225144	BRCA-EU	CGP_donor_1599372	radiation therapy	adjuvant		1	unknown	chemotherapy	adjuvant			unknown		
+DO225143	BRCA-EU	CGP_donor_1599371	radiation therapy	adjuvant		23	unknown	chemotherapy	adjuvant			unknown		
+DO225142	BRCA-EU	CGP_donor_1599369	radiation therapy	adjuvant			unknown	chemotherapy	adjuvant			unknown		
+DO225141	BRCA-EU	CGP_donor_1599368	radiation therapy	adjuvant			unknown	chemotherapy	adjuvant			unknown		
+DO225140	BRCA-EU	CGP_donor_1599367	radiation therapy	adjuvant			unknown	chemotherapy	adjuvant			unknown		
+DO225149	BRCA-EU	CGP_donor_1599379	radiation therapy	adjuvant			unknown	chemotherapy	adjuvant			unknown		
+DO225148	BRCA-EU	CGP_donor_1599377	radiation therapy	adjuvant		21	unknown	chemotherapy	adjuvant			complete response		
+DO225147	BRCA-EU	CGP_donor_1599376	radiation therapy	adjuvant		1	unknown	chemotherapy	adjuvant			complete response		
+DO225146	BRCA-EU	CGP_donor_1599374	radiation therapy	adjuvant			stable disease	chemotherapy	adjuvant			complete response		
+DO225145	BRCA-EU	CGP_donor_1599373	radiation therapy	adjuvant		21	stable disease	chemotherapy	adjuvant			stable disease		
+DO225155	BRCA-EU	CGP_donor_1599386	radiation therapy	adjuvant		21	unknown	chemotherapy	adjuvant			unknown		
+DO225154	BRCA-EU	CGP_donor_1599385	radiation therapy	adjuvant		22	unknown	chemotherapy	adjuvant			unknown		
+DO225153	BRCA-EU	CGP_donor_1599384	radiation therapy	adjuvant		22	unknown	chemotherapy	adjuvant			unknown		
+DO225152	BRCA-EU	CGP_donor_1599383	radiation therapy	adjuvant		23	unknown	chemotherapy	adjuvant			unknown		
+DO225151	BRCA-EU	CGP_donor_1599382	radiation therapy	adjuvant			unknown	chemotherapy	adjuvant			unknown		
+DO225150	BRCA-EU	CGP_donor_1599381	radiation therapy	adjuvant			unknown	chemotherapy	adjuvant			complete response		
+DO225159	BRCA-EU	CGP_donor_1602860	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225158	BRCA-EU	CGP_donor_1602858	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225157	BRCA-EU	CGP_donor_1599390	radiation therapy	adjuvant		22	unknown	chemotherapy	adjuvant			unknown		
+DO225156	BRCA-EU	CGP_donor_1599387	radiation therapy	adjuvant		21	unknown	chemotherapy	adjuvant			unknown		
+DO225166	BRCA-EU	CGP_donor_1606172	other therapy	adjuvant	50	900	complete response	no treatment	not applicable				Hormone_therapy, tam+LHRH-a	unknown
+DO225165	BRCA-EU	CGP_donor_1606171	other therapy	adjuvant	65	60	complete response	no treatment	not applicable				Hormone_therapy, tamoxifen	unknown
+DO225164	BRCA-EU	CGP_donor_1606170	combined chemo+radiation therapy	adjuvant	50	160	complete response	no treatment	not applicable					
+DO225163	BRCA-EU	CGP_donor_1606169	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225162	BRCA-EU	CGP_donor_1606168	other therapy	adjuvant	25	1800	complete response	no treatment	not applicable				Hormone_therapy	unknown
+DO225161	BRCA-EU	CGP_donor_1606167	other therapy	not applicable	15	300	complete response	no treatment	not applicable				surgery+chemotherapy, FECx6	unknown
+DO225160	BRCA-EU	CGP_donor_1602861	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225169	BRCA-EU	CGP_donor_1606178	other therapy	adjuvant	50	630	complete response	no treatment	not applicable				Combined - Chemo+Targeted_therapy, TaxGem+Herceptin	unknown
+DO225168	BRCA-EU	CGP_donor_1606177	other therapy	adjuvant	45	90	complete response	no treatment	not applicable				Combined - Chemo+Hormone	unknown
+DO225167	BRCA-EU	CGP_donor_1606175	chemotherapy	adjuvant	40	180	complete response	no treatment	not applicable					
+DO225306	BRCA-EU	CGP_donor_1833595	no treatment	not applicable				no treatment	not applicable					
+DO225305	BRCA-EU	CGP_donor_1830029	radiation therapy	adjuvant			unknown	other therapy	adjuvant				2nd therapy - Hormone_therapy, tamoxifen	unknown
+DO225304	BRCA-EU	CGP_donor_1830028	radiation therapy	adjuvant			unknown	chemotherapy	adjuvant			unknown		
+DO225303	BRCA-EU	CGP_donor_1830025	radiation therapy	adjuvant			unknown	chemotherapy	adjuvant			unknown		
+DO225302	BRCA-EU	CGP_donor_1830023	radiation therapy	adjuvant			unknown	other therapy	adjuvant				2nd therapy - Hormone_therapy, tamoxifen	unknown
+DO225301	BRCA-EU	CGP_donor_1825701	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225300	BRCA-EU	CGP_donor_1825696	combined chemo+radiation therapy	adjuvant	105	95	complete response	other therapy	adjuvant	200			1st therapy - AC (stopped after cycle 2 due to toxicity); 2nd therapy - Hormone_therapy, Letrozole, therapy still ongoing	unknown
+DO225309	BRCA-EU	CGP_donor_1833601	radiation therapy	curative			unknown	chemotherapy	adjuvant			unknown		
+DO225308	BRCA-EU	CGP_donor_1833598	radiation therapy	curative			unknown	other therapy	adjuvant				1st therapy - FEC; 2nd therapy - Hormone_therapy, Tamoxifen	unknown
+DO225307	BRCA-EU	CGP_donor_1833596	no treatment	curative				other therapy	adjuvant				1st therapy - FEC; 2nd therapy - Tamoxifen	unknown
+DO225317	BRCA-EU	CGP_donor_1951082	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225316	BRCA-EU	CGP_donor_1921025	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225315	BRCA-EU	CGP_donor_1835953	radiation therapy	adjuvant	55	22	unknown	other therapy	adjuvant	69	1826		1st therapy - 40Gyx15; 2nd therapy - Hormone_therapy, Femara	unknown
+DO225314	BRCA-EU	CGP_donor_1835952	chemotherapy	adjuvant	80	138	unknown	radiation therapy	adjuvant	261	39	unknown		
+DO225313	BRCA-EU	CGP_donor_1835948	radiation therapy	adjuvant	47	13	unknown	other therapy	adjuvant	40	1826		1st therapy - 30Gyx10; 2nd therapy - Hormone_therapy, TAM	unknown
+DO225312	BRCA-EU	CGP_donor_1835946	chemotherapy	adjuvant	37	63	unknown	radiation therapy	adjuvant	136	28	unknown		
+DO225311	BRCA-EU	CGP_donor_1835945	other therapy	adjuvant	6	1826		no treatment	not applicable				Hormone_therapy, TAM	unknown
+DO225310	BRCA-EU	CGP_donor_1833603	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225319	BRCA-EU	CGP_donor_1952332	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225318	BRCA-EU	CGP_donor_1952330	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225320	BRCA-EU	CGP_donor_1952333	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225328	BRCA-EU	CGP_donor_1952341	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225327	BRCA-EU	CGP_donor_1952340	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225326	BRCA-EU	CGP_donor_1952339	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225325	BRCA-EU	CGP_donor_1952338	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225324	BRCA-EU	CGP_donor_1952337	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225323	BRCA-EU	CGP_donor_1952336	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225322	BRCA-EU	CGP_donor_1952335	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225321	BRCA-EU	CGP_donor_1952334	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225329	BRCA-EU	CGP_donor_1964499	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225298	BRCA-EU	CGP_donor_1825690	radiation therapy	adjuvant	75	42	complete response	other therapy	adjuvant	126			2nd therapy - Hormone_therapy, Tamoxifen, therapy still ongoing	unknown
+DO225297	BRCA-EU	CGP_donor_1825689	combined chemo+radiation therapy	adjuvant	58	188	complete response	other therapy	adjuvant	246			1st therapy - AC-Taxol+Radiation, 2nd therapy - Hormone_therapy, Arimidex, therapy still ongoing	unknown
+DO225296	BRCA-EU	CGP_donor_1825667	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225295	BRCA-EU	CGP_donor_1825663	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225294	BRCA-EU	CGP_donor_1818132	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225293	BRCA-EU	CGP_donor_1818131	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225292	BRCA-EU	CGP_donor_1817878	radiation therapy	adjuvant	36865	35	unknown	chemotherapy	adjuvant			unknown		
+DO225291	BRCA-EU	CGP_donor_1817167	combined chemo+radiation therapy	adjuvant	46	146	complete response	other therapy	adjuvant	213	1772	complete response	1st therapy - AC chemo+Radiation, 2nd therapy - Hormone_therapy, tamoxife-777aromasin	unknown
+DO225299	BRCA-EU	CGP_donor_1825691	chemotherapy	adjuvant	37	99	complete response	no treatment	not applicable					
+DO225210	BRCA-EU	CGP_donor_1686151	radiation therapy	adjuvant	63	27	unknown	other therapy	adjuvant	77	1800		1st therapy - 16x2.66Gy; 2nd therapy - Hormone_therapy, Tamoxifen 20mg/day	unknown
+DO225218	BRCA-EU	CGP_donor_1698915	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225217	BRCA-EU	CGP_donor_1698914	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225216	BRCA-EU	CGP_donor_1698913	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225215	BRCA-EU	CGP_donor_1698912	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225214	BRCA-EU	CGP_donor_1698911	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225213	BRCA-EU	CGP_donor_1698910	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225212	BRCA-EU	CGP_donor_1686153	chemotherapy	adjuvant	77	67	unknown	chemotherapy	adjuvant	164	77	unknown		
+DO225211	BRCA-EU	CGP_donor_1686152	radiation therapy	adjuvant	37	21	unknown	no treatment	not applicable					
+DO225219	BRCA-EU	CGP_donor_1698916	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225221	BRCA-EU	CGP_donor_1701341	radiation therapy	adjuvant	54	45	unknown	no treatment	not applicable					
+DO225220	BRCA-EU	CGP_donor_1698917	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225229	BRCA-EU	CGP_donor_1701352	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225228	BRCA-EU	CGP_donor_1701350	chemotherapy	adjuvant	22	70	unknown	no treatment	not applicable					
+DO225227	BRCA-EU	CGP_donor_1701349	combined chemo+radiation therapy	adjuvant		165	unknown	no treatment	not applicable					
+DO225226	BRCA-EU	CGP_donor_1701348	other therapy	adjuvant				no treatment	not applicable				Combined - Chemo+Hormone	unknown
+DO225225	BRCA-EU	CGP_donor_1701346	other therapy	adjuvant				no treatment	not applicable				Combined - Chemo+Hormone	unknown
+DO225224	BRCA-EU	CGP_donor_1701345	chemotherapy	adjuvant		106	unknown	no treatment	not applicable					
+DO225223	BRCA-EU	CGP_donor_1701343	other therapy	adjuvant				no treatment	not applicable				Hormone_therapy, for distant metastases	unknown
+DO225222	BRCA-EU	CGP_donor_1701342	other therapy	adjuvant	34			no treatment	not applicable				Combined - Radio+Hormone, hormone therapy untill death	unknown
+DO225232	BRCA-EU	CGP_donor_1711724	chemotherapy	adjuvant	31	167	unknown	radiation therapy	adjuvant	215		unknown		
+DO225231	BRCA-EU	CGP_donor_1701354	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225230	BRCA-EU	CGP_donor_1701353	chemotherapy	adjuvant	610	91	disease progression	no treatment	not applicable					
+DO225239	BRCA-EU	CGP_donor_1711732	chemotherapy	adjuvant			unknown	radiation therapy	adjuvant			unknown		
+DO225238	BRCA-EU	CGP_donor_1711730	radiation therapy	adjuvant	47	18	unknown	other therapy	adjuvant				1st therapy - 25Gyx40; 2nd therapy - Hormone_therapy, Femara+Fasavance	unknown
+DO225237	BRCA-EU	CGP_donor_1711729	chemotherapy	adjuvant	41	144	unknown	radiation therapy	adjuvant	210	42	unknown		
+DO225236	BRCA-EU	CGP_donor_1711728	radiation therapy	adjuvant	42	28	unknown	other therapy	adjuvant				1st therapy - 50Gyx20 + 25Gyx8; 2nd therapy - Hormone_therapy, Tam+AI	unknown
+DO225235	BRCA-EU	CGP_donor_1711727	radiation therapy	adjuvant	70		unknown	other therapy	adjuvant				1st therapy - 40Gyx15 (breast); 2nd therapy - Hormone_therapy, Tam+AI	unknown
+DO225234	BRCA-EU	CGP_donor_1711726	chemotherapy	adjuvant			unknown	radiation therapy	adjuvant			unknown		
+DO225233	BRCA-EU	CGP_donor_1711725	chemotherapy	adjuvant	32	162	unknown	radiation therapy	adjuvant	203	61	unknown		
+DO225243	BRCA-EU	CGP_donor_1711736	chemotherapy	adjuvant	29	198	unknown	radiation therapy	adjuvant	234	48	unknown		
+DO225242	BRCA-EU	CGP_donor_1711735	radiation therapy	adjuvant	70	38	unknown	other therapy	adjuvant	112			1st therapy - 50Gyx25 (breast) + 45Gyx25 (LNs); 2nd therapy - Hormone_therapy, 5yTAM	unknown
+DO225241	BRCA-EU	CGP_donor_1711734	radiation therapy	adjuvant	40	36	unknown	other therapy	adjuvant	84			1st therapy - 25x50Gy; 2nd therapy - Hormone_therapy, 5yTam	unknown
+DO225240	BRCA-EU	CGP_donor_1711733	radiation therapy	adjuvant	70	21	unknown	other therapy	adjuvant				1st therapy - 15x40Gy; 2nd therapy - Hormone_therapy, 2,5yT + 2,5yAI	unknown
+DO225249	BRCA-EU	CGP_donor_1711743	other therapy	adjuvant				no treatment	not applicable				1st therapy - Hormone_therapy, Tamoxifen	unknown
+DO225248	BRCA-EU	CGP_donor_1711742	chemotherapy	adjuvant	42	148	unknown	radiation therapy	adjuvant	221	36	unknown		
+DO225247	BRCA-EU	CGP_donor_1711740	radiation therapy	adjuvant	53	37	unknown	other therapy	adjuvant	93			1st therapy - 50Gyx25; 2nd therapy - Hormone_therapy, TAM	unknown
+DO225246	BRCA-EU	CGP_donor_1711739	chemotherapy	adjuvant	24		unknown	radiation therapy	adjuvant	125	39	unknown		
+DO225245	BRCA-EU	CGP_donor_1711738	chemotherapy	adjuvant	38	129	unknown	radiation therapy	adjuvant	174	35	unknown		
+DO225244	BRCA-EU	CGP_donor_1711737	radiation therapy	adjuvant	38		unknown	other therapy	adjuvant	72			1st therapy - 40Gyx15; 2nd therapy - Hormone_therapy, TAM	unknown
+DO225254	BRCA-EU	CGP_donor_1752874	radiation therapy	adjuvant	42		unknown	no treatment	not applicable					
+DO225253	BRCA-EU	CGP_donor_1752872	other therapy	adjuvant				no treatment	not applicable				1st therapy - Hormone_therapy, 1 month later distant metastasis	unknown
+DO225252	BRCA-EU	CGP_donor_1752870	other therapy	adjuvant	28			no treatment	not applicable				Combined - Chemo+Hormone, 3xFEC/3xtaxotere+5y hormone	unknown
+DO225251	BRCA-EU	CGP_donor_1752868	other therapy	adjuvant	26			no treatment	not applicable				Combined - Chemo+Hormone, 3xFEC/3xtaxotere+ hormone untill relapse	unknown
+DO225250	BRCA-EU	CGP_donor_1752867	other therapy	adjuvant	54			no treatment	not applicable				Combined - Chemo+Hormone, 3xFEC/3xtaxotere+5y hormone	unknown
+DO225259	BRCA-EU	CGP_donor_1752921	radiation therapy	curative		50	unknown	other therapy	adjuvant				Hormone_therapy	unknown
+DO225258	BRCA-EU	CGP_donor_1752920	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225257	BRCA-EU	CGP_donor_1752917	other therapy	curative				chemotherapy	adjuvant		108	unknown	Hormone_therapy	unknown
+DO225256	BRCA-EU	CGP_donor_1752877	other therapy	adjuvant				no treatment	not applicable				Hormone_therapy (5 years)	unknown
+DO225255	BRCA-EU	CGP_donor_1752876	chemotherapy	adjuvant	56	105	unknown	no treatment	not applicable					
+DO225265	BRCA-EU	CGP_donor_1752928	chemotherapy	curative		111	unknown	radiation therapy	adjuvant			unknown		
+DO225264	BRCA-EU	CGP_donor_1752927	chemotherapy	curative			unknown	no treatment	not applicable					
+DO225263	BRCA-EU	CGP_donor_1752926	other therapy	curative				radiation therapy	adjuvant			unknown	Hormone_therapy	unknown
+DO225262	BRCA-EU	CGP_donor_1752925	chemotherapy	curative		105	unknown	other therapy	adjuvant				Hormone_therapy	unknown
+DO225261	BRCA-EU	CGP_donor_1752924	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225260	BRCA-EU	CGP_donor_1752923	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225269	BRCA-EU	CGP_donor_1752935	other therapy	curative				chemotherapy	adjuvant		106	unknown	Hormone_therapy	unknown
+DO225268	BRCA-EU	CGP_donor_1752934	chemotherapy	curative		154	unknown	radiation therapy	adjuvant			unknown		
+DO225267	BRCA-EU	CGP_donor_1752932	chemotherapy	curative		105	unknown	radiation therapy	adjuvant		38	unknown		
+DO225266	BRCA-EU	CGP_donor_1752929	radiation therapy	curative		30	unknown	other therapy	adjuvant				Hormone_therapy	unknown
+DO225276	BRCA-EU	CGP_donor_1802654	chemotherapy	adjuvant	28	147	unknown	radiation therapy	adjuvant	196	37	unknown		
+DO225275	BRCA-EU	CGP_donor_1801387	chemotherapy	adjuvant	37	147	unknown	radiation therapy	adjuvant	222	36	unknown		
+DO225274	BRCA-EU	CGP_donor_1801377	other therapy	adjuvant				no treatment	not applicable				Hormone_therapy, Femara	unknown
+DO225273	BRCA-EU	CGP_donor_1801369	chemotherapy	adjuvant	59	136	unknown	radiation therapy	adjuvant	210	37	unknown		
+DO225272	BRCA-EU	CGP_donor_1752940	radiation therapy	curative		36	unknown	other therapy	adjuvant				Hormone_therapy	unknown
+DO225271	BRCA-EU	CGP_donor_1752939	chemotherapy	curative		65	unknown	radiation therapy	adjuvant		49	unknown		
+DO225270	BRCA-EU	CGP_donor_1752938	radiation therapy	curative		50	unknown	other therapy	adjuvant				Hormone_therapy	unknown
+DO225279	BRCA-EU	CGP_donor_1811903	chemotherapy	curative			unknown	no treatment	not applicable					
+DO225278	BRCA-EU	CGP_donor_1811901	chemotherapy	curative			unknown	no treatment	not applicable					
+DO225277	BRCA-EU	CGP_donor_1811898	combined chemo+radiation therapy	curative			unknown	no treatment	not applicable					
+DO225287	BRCA-EU	CGP_donor_1815389	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225286	BRCA-EU	CGP_donor_1815388	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225285	BRCA-EU	CGP_donor_1815387	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225284	BRCA-EU	CGP_donor_1815386	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225283	BRCA-EU	CGP_donor_1815385	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225282	BRCA-EU	CGP_donor_1811918	chemotherapy	curative			unknown	no treatment	not applicable					
+DO225281	BRCA-EU	CGP_donor_1811912	combined chemo+radiation therapy	curative			unknown	no treatment	not applicable					
+DO225280	BRCA-EU	CGP_donor_1811905	combined chemo+radiation therapy	curative			unknown	no treatment	not applicable					
+DO225289	BRCA-EU	CGP_donor_1817151	radiation therapy	adjuvant	91	43	complete response	other therapy	adjuvant	61			2nd therapy - Hormone_therapy, Arimidex, therapy still ongoing	unknown
+DO225288	BRCA-EU	CGP_donor_1815390	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225290	BRCA-EU	CGP_donor_1817152	radiation therapy	adjuvant			unknown	other therapy	adjuvant				1st therapy - in Canada; 2nd therapy - Hormone_therapy, tamoxifen, Ovarian supression, zometa. Therapy still ongoing	unknown
+DO225331	BRCA-EU	CGP_donor_1964507	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225330	BRCA-EU	CGP_donor_1964503	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225339	BRCA-EU	CGP_donor_1964515	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225338	BRCA-EU	CGP_donor_1964514	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225337	BRCA-EU	CGP_donor_1964513	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225336	BRCA-EU	CGP_donor_1964512	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225335	BRCA-EU	CGP_donor_1964511	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225334	BRCA-EU	CGP_donor_1964510	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225333	BRCA-EU	CGP_donor_1964509	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225332	BRCA-EU	CGP_donor_1964508	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225342	BRCA-EU	CGP_donor_1964519	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225341	BRCA-EU	CGP_donor_1964518	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225340	BRCA-EU	CGP_donor_1964516	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225349	BRCA-EU	CGP_donor_1981513	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225348	BRCA-EU	CGP_donor_1981510	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225347	BRCA-EU	CGP_donor_1981506	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225346	BRCA-EU	CGP_donor_1965892	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225345	BRCA-EU	CGP_donor_1965891	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225344	BRCA-EU	CGP_donor_1965890	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225343	BRCA-EU	CGP_donor_1964523	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225353	BRCA-EU	CGP_donor_1981517	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225352	BRCA-EU	CGP_donor_1981516	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225351	BRCA-EU	CGP_donor_1981515	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225350	BRCA-EU	CGP_donor_1981514	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225359	BRCA-EU	CGP_donor_1981524	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225358	BRCA-EU	CGP_donor_1981523	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225357	BRCA-EU	CGP_donor_1981521	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225356	BRCA-EU	CGP_donor_1981520	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225355	BRCA-EU	CGP_donor_1981519	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225354	BRCA-EU	CGP_donor_1981518	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225364	BRCA-EU	CGP_donor_1981530	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225363	BRCA-EU	CGP_donor_1981529	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225362	BRCA-EU	CGP_donor_1981528	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225361	BRCA-EU	CGP_donor_1981526	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225360	BRCA-EU	CGP_donor_1981525	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225369	BRCA-EU	CGP_donor_1981538	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225368	BRCA-EU	CGP_donor_1981536	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225367	BRCA-EU	CGP_donor_1981533	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225366	BRCA-EU	CGP_donor_1981532	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225365	BRCA-EU	CGP_donor_1981531	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225375	BRCA-EU	CGP_donor_1981544	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225374	BRCA-EU	CGP_donor_1981543	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225373	BRCA-EU	CGP_donor_1981542	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225372	BRCA-EU	CGP_donor_1981541	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225371	BRCA-EU	CGP_donor_1981540	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225370	BRCA-EU	CGP_donor_1981539	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225379	BRCA-EU	CGP_donor_1981549	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225378	BRCA-EU	CGP_donor_1981548	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225377	BRCA-EU	CGP_donor_1981547	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225376	BRCA-EU	CGP_donor_1981545	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225386	BRCA-EU	CGP_donor_1988695	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225385	BRCA-EU	CGP_donor_1988689	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225384	BRCA-EU	CGP_donor_1988688	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225383	BRCA-EU	CGP_donor_1988687	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225382	BRCA-EU	CGP_donor_1988685	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225381	BRCA-EU	CGP_donor_1988684	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225380	BRCA-EU	CGP_donor_1988683	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225389	BRCA-EU	CGP_donor_1988703	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225388	BRCA-EU	CGP_donor_1988701	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225387	BRCA-EU	CGP_donor_1988699	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225397	BRCA-EU	CGP_donor_1988717	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225396	BRCA-EU	CGP_donor_1988716	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225395	BRCA-EU	CGP_donor_1988714	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225394	BRCA-EU	CGP_donor_1988713	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225393	BRCA-EU	CGP_donor_1988710	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225392	BRCA-EU	CGP_donor_1988708	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225391	BRCA-EU	CGP_donor_1988707	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225390	BRCA-EU	CGP_donor_1988706	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO225398	BRCA-EU	CGP_donor_1988718	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224547	BRCA-EU	CGP_donor_1069291	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224557	BRCA-EU	CGP_donor_1114929	chemotherapy	adjuvant			unknown	no treatment	not applicable					
+DO224553	BRCA-EU	CGP_donor_1114881	other therapy	adjuvant				no treatment	not applicable				Hormone_therapy, Tamoxifen	unknown
+DO224560	BRCA-EU	CGP_donor_1114930	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224569	BRCA-EU	CGP_donor_1167079	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224565	BRCA-EU	CGP_donor_1167078	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224577	BRCA-EU	CGP_donor_1187021	radiation therapy	adjuvant			unknown	no treatment	not applicable					
+DO224573	BRCA-EU	CGP_donor_1167080	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224582	BRCA-EU	CGP_donor_1187030	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224588	BRCA-EU	CGP_donor_1187033	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224585	BRCA-EU	CGP_donor_1187031	chemotherapy	adjuvant	116	163	disease progression	combined chemo+radiation therapy	adjuvant	331	37	disease progression		
+DO224593	BRCA-EU	CGP_donor_1199129	chemotherapy	adjuvant			unknown	no treatment	not applicable					
+DO224590	BRCA-EU	CGP_donor_1199104	other therapy	not applicable				no treatment	not applicable				Hormone_therapy, Tamoxifen	unknown
+DO224598	BRCA-EU	CGP_donor_1199131	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224643	BRCA-EU	CGP_donor_1230791	chemotherapy	adjuvant			unknown	radiation therapy	adjuvant			unknown		
+DO224640	BRCA-EU	CGP_donor_1230785	radiation therapy	adjuvant			unknown	no treatment	not applicable					
+DO224647	BRCA-EU	CGP_donor_1230794	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224654	BRCA-EU	CGP_donor_1309220	combined chemo+radiation therapy	adjuvant	38	180	complete response	chemotherapy	adjuvant	409	548	disease progression		
+DO224650	BRCA-EU	CGP_donor_1309213	combined chemo+radiation therapy	adjuvant	75	522	complete response	radiation therapy	adjuvant	251	63	complete response		
+DO224658	BRCA-EU	CGP_donor_1309223	chemotherapy	adjuvant	30	83	complete response	no treatment	not applicable					
+DO224667	BRCA-EU	CGP_donor_1310130	chemotherapy	adjuvant	80	63	complete response	no treatment	not applicable					
+DO224662	BRCA-EU	CGP_donor_1309228	combined chemo+radiation therapy	adjuvant	58	154	complete response	chemotherapy	adjuvant	226	39	unknown		
+DO224670	BRCA-EU	CGP_donor_1310131	chemotherapy	adjuvant	62	154	complete response	radiation therapy	adjuvant	19	45	complete response		
+DO224676	BRCA-EU	CGP_donor_1310133	radiation therapy	adjuvant	176	43	complete response	no treatment	not applicable					
+DO224680	BRCA-EU	CGP_donor_1317989	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO224687	BRCA-EU	CGP_donor_1317992	no treatment	not applicable				no treatment	not applicable					
+DO224684	BRCA-EU	CGP_donor_1317991	no treatment	not applicable				no treatment	not applicable					
+DO224693	BRCA-EU	CGP_donor_1317993	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO224697	BRCA-EU	CGP_donor_1333045	other therapy	adjuvant				chemotherapy	adjuvant			unknown	1st therapy - Targeted_therapy,Tamoxifen; 2nd therapy - Anthracyclin	unknown
+DO224602	BRCA-EU	CGP_donor_1199138	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224600	BRCA-EU	CGP_donor_1199137	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224609	BRCA-EU	CGP_donor_1230724	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224606	BRCA-EU	CGP_donor_1230722	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224618	BRCA-EU	CGP_donor_1230729	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224614	BRCA-EU	CGP_donor_1230728	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224625	BRCA-EU	CGP_donor_1230778	surgery	adjuvant			unknown	combined chemo+radiation therapy	adjuvant			unknown		
+DO224634	BRCA-EU	CGP_donor_1230782	surgery	adjuvant			unknown	other therapy	adjuvant				1st therapy - Mastectomy; 2nd therapy - Endocrine_Therapy	unknown
+DO224765	BRCA-EU	CGP_donor_1347730	chemotherapy	adjuvant			unknown	no treatment	not applicable					
+DO224763	BRCA-EU	CGP_donor_1347729	chemotherapy	adjuvant			unknown	no treatment	not applicable					
+DO224768	BRCA-EU	CGP_donor_1347732	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO224781	BRCA-EU	CGP_donor_1347737	chemotherapy	adjuvant			unknown	no treatment	not applicable					
+DO224788	BRCA-EU	CGP_donor_1347739	radiation therapy	adjuvant			unknown	no treatment	not applicable					
+DO224798	BRCA-EU	CGP_donor_1347741	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO224793	BRCA-EU	CGP_donor_1347740	radiation therapy	adjuvant			unknown	no treatment	not applicable					
+DO224700	BRCA-EU	CGP_donor_1333046	no treatment	not applicable				chemotherapy	adjuvant			unknown		
+DO224709	BRCA-EU	CGP_donor_1333050	other therapy	adjuvant				chemotherapy	adjuvant			unknown	1st therapy - Tamoxifen not used (known), 2nd therapy - CMF	unknown
+DO224704	BRCA-EU	CGP_donor_1333049	other therapy	adjuvant				chemotherapy	adjuvant			unknown	1st therapy - Tamoxifen not used (known); 2nd therapy - Anthracyclin	unknown
+DO224717	BRCA-EU	CGP_donor_1333052	other therapy	adjuvant				chemotherapy	adjuvant			unknown	1st therapy - Targeted_therapy, Tamoxifen; 2nd therapy - Anthracyclin	unknown
+DO224713	BRCA-EU	CGP_donor_1333051	other therapy	adjuvant				chemotherapy	adjuvant			unknown	1st therapy - Targeted_therapy, Tamoxifen; 2nd therapy - Anthracyclin	unknown
+DO224722	BRCA-EU	CGP_donor_1337224	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224728	BRCA-EU	CGP_donor_1337227	chemotherapy	adjuvant		103	unknown	radiation therapy	adjuvant	39		stable disease		
+DO224732	BRCA-EU	CGP_donor_1337232	chemotherapy	adjuvant			partial response	no treatment	not applicable					
+DO224730	BRCA-EU	CGP_donor_1337230	chemotherapy	adjuvant			unknown	radiation therapy	adjuvant	73	48	stable disease		
+DO224737	BRCA-EU	CGP_donor_1337233	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224741	BRCA-EU	CGP_donor_1337235	chemotherapy	adjuvant			unknown	radiation therapy	adjuvant	76		unknown		
+DO224746	BRCA-EU	CGP_donor_1347720	chemotherapy	curative			unknown	radiation therapy	adjuvant			unknown		
+DO224755	BRCA-EU	CGP_donor_1347727	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO224751	BRCA-EU	CGP_donor_1347725	radiation therapy	adjuvant			unknown	no treatment	not applicable					
+DO224887	BRCA-EU	CGP_donor_1374608	other therapy	adjuvant			complete response	no treatment	not applicable				Anastrozole	unknown
+DO224885	BRCA-EU	CGP_donor_1374581	chemotherapy	curative			unknown	radiation therapy	adjuvant			unknown		
+DO224882	BRCA-EU	CGP_donor_1364077	radiation therapy	adjuvant			unknown	no treatment	not applicable					
+DO224897	BRCA-EU	CGP_donor_1374625	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO224895	BRCA-EU	CGP_donor_1374624	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO224892	BRCA-EU	CGP_donor_1374619	chemotherapy	adjuvant			unknown	no treatment	not applicable					
+DO224807	BRCA-EU	CGP_donor_1347746	chemotherapy	adjuvant	55	1458	disease progression	no treatment	not applicable					
+DO224805	BRCA-EU	CGP_donor_1347745	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO224802	BRCA-EU	CGP_donor_1347743	radiation therapy	adjuvant			unknown	no treatment	not applicable					
+DO224811	BRCA-EU	CGP_donor_1347748	other therapy	adjuvant	161	264		other therapy	adjuvant	433	1613	complete response	1st therapy - Hormone_therapy, Tamoxifen 20 mg (stopped); 2nd therapy - Hormone_therapy, Arimidex 1 mg	unknown
+DO224818	BRCA-EU	CGP_donor_1347755	chemotherapy	adjuvant	92	250	complete response	other therapy	adjuvant	239			1st therapy - AC Chemotherapy, Taxol, Avastin; 2nd therapy - Hormone_therapy, Tamoxifen, therapy still ongoing	unknown
+DO224815	BRCA-EU	CGP_donor_1347754	chemotherapy	adjuvant	41	418	complete response	other therapy	adjuvant	274			1st therapy - AC Chemo(duration-38.44 days)+ taxol and herceptin(duration-81.88 days) +radiation (duration-~60.88 days)+Herceptin only(duration-255.52 days) ; 2nd therapy - Hormone_therapy, Tamoxifen - Jan 2011, therapy still ongoing	unknown
+DO224828	BRCA-EU	CGP_donor_1347811	chemotherapy	adjuvant			unknown	radiation therapy	adjuvant			unknown		
+DO224824	BRCA-EU	CGP_donor_1347759	chemotherapy	adjuvant	76	160	complete response	other therapy	adjuvant	243			1st therapy - AC Chemotherapy, Taxol, radiation, 2nd therapy - Hormone_therapy, Tamoxifen, therapy still ongoing	unknown
+DO224833	BRCA-EU	CGP_donor_1353430	chemotherapy	curative			unknown	no treatment	not applicable					
+DO224839	BRCA-EU	CGP_donor_1353432	chemotherapy	curative			unknown	radiation therapy	adjuvant			unknown		
+DO224835	BRCA-EU	CGP_donor_1353431	chemotherapy	curative			unknown	radiation therapy	adjuvant			unknown		
+DO224844	BRCA-EU	CGP_donor_1363947	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224841	BRCA-EU	CGP_donor_1353433	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224847	BRCA-EU	CGP_donor_1363948	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224855	BRCA-EU	CGP_donor_1363964	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO224852	BRCA-EU	CGP_donor_1363963	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO224851	BRCA-EU	CGP_donor_1363960	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO224865	BRCA-EU	CGP_donor_1363966	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO224860	BRCA-EU	CGP_donor_1363965	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO224869	BRCA-EU	CGP_donor_1363967	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO224876	BRCA-EU	CGP_donor_1363969	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO224874	BRCA-EU	CGP_donor_1363968	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO224879	BRCA-EU	CGP_donor_1363970	other therapy	adjuvant				no treatment	not applicable				1st therapy -Targeted_therapy, Tamoxifen not used (known); 2nd therapy - Chemotherapy not used (known)	unknown
+DO224920	BRCA-EU	CGP_donor_1380605	other therapy	not applicable				other therapy	adjuvant				Unknown (data on treatment currently not available)	unknown
+DO224928	BRCA-EU	CGP_donor_1397257	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224925	BRCA-EU	CGP_donor_1397256	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224930	BRCA-EU	CGP_donor_1397258	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224938	BRCA-EU	CGP_donor_1397265	chemotherapy	adjuvant			unknown	radiation therapy	adjuvant			unknown		
+DO224934	BRCA-EU	CGP_donor_1397259	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224942	BRCA-EU	CGP_donor_1397280	other therapy	adjuvant			unknown	no treatment	not applicable				unknown	unknown
+DO224948	BRCA-EU	CGP_donor_1400447	radiation therapy	adjuvant			unknown	other therapy	adjuvant				1st therapy - RT(mam,nodes); 2nd therapy - Targeted_therapy, TAM(2.5y)+AI(6 months)	unknown
+DO224944	BRCA-EU	CGP_donor_1397283	radiation therapy	adjuvant			unknown	chemotherapy	adjuvant			disease progression		
+DO224950	BRCA-EU	CGP_donor_1400449	radiation therapy	adjuvant			unknown	other therapy	adjuvant				1st therapy - RT(mam), 2nd therapy - FEC/taxotere+Arimidex(start dec 2009)	unknown
+DO224959	BRCA-EU	CGP_donor_1402589	radiation therapy	adjuvant	35		stable disease	chemotherapy	adjuvant	111		stable disease		
+DO224957	BRCA-EU	CGP_donor_1402588	radiation therapy	adjuvant	85		stable disease	chemotherapy	adjuvant	131		stable disease		
+DO224955	BRCA-EU	CGP_donor_1400452	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO224965	BRCA-EU	CGP_donor_1410194	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224963	BRCA-EU	CGP_donor_1410193	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224961	BRCA-EU	CGP_donor_1402590	radiation therapy	adjuvant	38	45	stable disease	chemotherapy	adjuvant	102		stable disease		
+DO224968	BRCA-EU	CGP_donor_1410196	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224967	BRCA-EU	CGP_donor_1410195	other therapy	not applicable				other therapy	not applicable				unknown	unknown
+DO224975	BRCA-EU	CGP_donor_1410211	radiation therapy	curative		55	unknown	other therapy	adjuvant				Hormone_therapy	unknown
+DO224973	BRCA-EU	CGP_donor_1410210	chemotherapy	adjuvant			unknown	radiation therapy	adjuvant			unknown		
+DO224971	BRCA-EU	CGP_donor_1410205	chemotherapy	adjuvant			unknown	radiation therapy	adjuvant			unknown		
+DO224978	BRCA-EU	CGP_donor_1410233	other therapy	not applicable				other therapy	adjuvant				Unknown (data on treatment currently not available)	unknown
+DO224977	BRCA-EU	CGP_donor_1410230	no treatment	not applicable				chemotherapy	adjuvant			unknown		
+DO224987	BRCA-EU	CGP_donor_1451414	chemotherapy	adjuvant			unknown	no treatment	not applicable					
+DO224985	BRCA-EU	CGP_donor_1451413	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO224982	BRCA-EU	CGP_donor_1425255	chemotherapy	curative		70	disease progression	chemotherapy	adjuvant			unknown		
+DO224980	BRCA-EU	CGP_donor_1425253	chemotherapy	curative		63	disease progression	chemotherapy	adjuvant			disease progression		
+DO224989	BRCA-EU	CGP_donor_1451415	chemotherapy	adjuvant			complete response	radiation therapy	adjuvant	269	28	complete response		
+DO224990	BRCA-EU	CGP_donor_1451416	chemotherapy	adjuvant	55	91	complete response	other therapy	adjuvant	267			1st therapy - Adriamycin/Cytoxan, Taxol, Radiation; 2nd therapy - Hormone_therapy, Arimidex, therapy still ongoing	unknown
+DO224996	BRCA-EU	CGP_donor_1451421	radiation therapy	adjuvant	111	24	complete response	other therapy	adjuvant	316		disease progression	2nd therapy - Hormone_therapy, Anastrozole, therapy still ongoing	unknown
+DO224995	BRCA-EU	CGP_donor_1451419	combined chemo+radiation therapy	adjuvant	55	173	complete response	other therapy	adjuvant	250			1st therapy - TAC + Radiation; 2nd therapy - Hormone_therapy, Tamoxifen, therapy still ongoing	unknown
+DO224992	BRCA-EU	CGP_donor_1451418	other therapy	adjuvant	51			no treatment	not applicable				Hormone_therapy, Tamoxifen, therapy still ongoing	unknown
+DO224999	BRCA-EU	CGP_donor_1451423	combined chemo+radiation therapy	adjuvant	62	2559	complete response	no treatment	not applicable					
+DO224905	BRCA-EU	CGP_donor_1374628	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO224904	BRCA-EU	CGP_donor_1374627	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO224900	BRCA-EU	CGP_donor_1374626	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO224910	BRCA-EU	CGP_donor_1374629	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO224917	BRCA-EU	CGP_donor_1380603	other therapy	not applicable				other therapy	adjuvant				Unknown (data on treatment currently not available)	unknown
+DO224914	BRCA-EU	CGP_donor_1380602	other therapy	not applicable				other therapy	adjuvant				Unknown (Treatment data currently not available)	unknown
+DO224911	BRCA-EU	CGP_donor_1374630	other therapy	not applicable				no treatment	not applicable				unknown	unknown
+DO218072	BRCA-EU	CGP_donor_1503017	chemotherapy	curative			unknown	no treatment	not applicable					
+DO218065	BRCA-EU	CGP_donor_1230754	no treatment	not applicable				no treatment	not applicable					
+DO218062	BRCA-EU	CGP_donor_1353429	radiation therapy	curative			unknown	no treatment	not applicable					
+DO218060	BRCA-EU	CGP_donor_1234124	no treatment	not applicable				no treatment	not applicable					
+DO218059	BRCA-EU	CGP_donor_1234129	radiation therapy	adjuvant			unknown	chemotherapy	adjuvant			unknown		
+DO218182	BRCA-EU	CGP_donor_1337238	radiation therapy	adjuvant			unknown	no treatment	not applicable					
+DO218176	BRCA-EU	CGP_donor_1397282	chemotherapy	adjuvant			complete response	other therapy	adjuvant				Hormone_therapy, tamoxifen	unknown
+DO218174	BRCA-EU	CGP_donor_1397263	no treatment	not applicable				no treatment	not applicable					
+DO218173	BRCA-EU	CGP_donor_1186990	radiation therapy	adjuvant			unknown	no treatment	not applicable					
+DO218168	BRCA-EU	CGP_donor_1347751	chemotherapy	adjuvant	81	137	complete response	other therapy	adjuvant	220	939	disease progression	Hormone_therapy, Arimidex 1 mg	unknown
+DO218167	BRCA-EU	CGP_donor_1347756	other therapy	adjuvant	99	974	disease progression	no treatment	not applicable				Combined - Chemo+Hormone, Arimidex, Faslodex, Xeloda, Navelbine,Taxotere	unknown
+DO218159	BRCA-EU	CGP_donor_1503156	chemotherapy	adjuvant	150	206	unknown	other therapy	adjuvant	365			Hormone_therapy, Tamoxifen	therapy still ongoing
+DO218150	BRCA-EU	CGP_donor_1337214	radiation therapy	adjuvant		28	unknown	other therapy	adjuvant	90			Tamoxifen	unknown
+DO218121	BRCA-EU	CGP_donor_1230797	radiation therapy	adjuvant			unknown	other therapy	adjuvant				Hormone therapy	unknown
+DO218279	BRCA-EU	CGP_donor_1503133	other therapy	adjuvant	152			no treatment	not applicable				Hormone_therapy, Tamoxifen	therapy still ongoing
+DO218269	BRCA-EU	CGP_donor_1234120	radiation therapy	adjuvant			unknown	other therapy	adjuvant				4x chemo(AC)+TAM(2.5y)/AI(2.5y)	unknown
+DO218254	BRCA-EU	CGP_donor_1364028	radiation therapy	adjuvant			unknown	chemotherapy	adjuvant			unknown		
+DO218212	BRCA-EU	CGP_donor_1333047	other therapy	adjuvant				chemotherapy	adjuvant			unknown	CMF	unknown
+DO218205	BRCA-EU	CGP_donor_1337222	chemotherapy	adjuvant	45	104	unknown	radiation therapy	adjuvant	150	40	unknown		
+DO218384	BRCA-EU	CGP_donor_1503020	chemotherapy	curative			unknown	no treatment	not applicable					
+DO218388	BRCA-EU	CGP_donor_1337241	other therapy	adjuvant	60			no treatment	not applicable				Hormone_therapy, Exemestane 25mg daily	unknown
+DO218377	BRCA-EU	CGP_donor_1503140	other therapy	adjuvant	132			no treatment	not applicable				Hormone_therapy, Tamoxifen	therapy still ongoing
+DO218347	BRCA-EU	CGP_donor_1397086	no treatment	not applicable				no treatment	not applicable					
+DO218333	BRCA-EU	CGP_donor_1475200	chemotherapy	curative			unknown	no treatment	not applicable					
