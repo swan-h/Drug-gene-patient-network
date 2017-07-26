@@ -1,0 +1,132 @@
+,icgc_donor_id,project_code,submitted_donor_id,first_therapy_type,first_therapy_therapeutic_intent,first_therapy_start_interval,first_therapy_duration,first_therapy_response,second_therapy_type,second_therapy_therapeutic_intent,second_therapy_start_interval,second_therapy_duration,second_therapy_response,other_therapy,other_therapy_response
+301,DO225240,BRCA-EU,CGP_donor_1711733,radiation therapy,adjuvant,70.0,21.0,unknown,other therapy,adjuvant,,,,"1st therapy - 15x40Gy; 2nd therapy - Hormone_therapy, 2,5yT + 2,5yAI",unknown
+268,DO225210,BRCA-EU,CGP_donor_1686151,radiation therapy,adjuvant,63.0,27.0,unknown,other therapy,adjuvant,77.0,1800.0,,"1st therapy - 16x2.66Gy; 2nd therapy - Hormone_therapy, Tamoxifen 20mg/day",unknown
+292,DO225238,BRCA-EU,CGP_donor_1711730,radiation therapy,adjuvant,47.0,18.0,unknown,other therapy,adjuvant,,,,"1st therapy - 25Gyx40; 2nd therapy - Hormone_therapy, Femara+Fasavance",unknown
+300,DO225241,BRCA-EU,CGP_donor_1711734,radiation therapy,adjuvant,40.0,36.0,unknown,other therapy,adjuvant,84.0,,,"1st therapy - 25x50Gy; 2nd therapy - Hormone_therapy, 5yTam",unknown
+243,DO225313,BRCA-EU,CGP_donor_1835948,radiation therapy,adjuvant,47.0,13.0,unknown,other therapy,adjuvant,40.0,1826.0,,"1st therapy - 30Gyx10; 2nd therapy - Hormone_therapy, TAM",unknown
+295,DO225235,BRCA-EU,CGP_donor_1711727,radiation therapy,adjuvant,70.0,,unknown,other therapy,adjuvant,,,,"1st therapy - 40Gyx15 (breast); 2nd therapy - Hormone_therapy, Tam+AI",unknown
+241,DO225315,BRCA-EU,CGP_donor_1835953,radiation therapy,adjuvant,55.0,22.0,unknown,other therapy,adjuvant,69.0,1826.0,,"1st therapy - 40Gyx15; 2nd therapy - Hormone_therapy, Femara",unknown
+307,DO225244,BRCA-EU,CGP_donor_1711737,radiation therapy,adjuvant,38.0,,unknown,other therapy,adjuvant,72.0,,,"1st therapy - 40Gyx15; 2nd therapy - Hormone_therapy, TAM",unknown
+84,DO225091,BRCA-EU,CGP_donor_1512432,chemotherapy,adjuvant,,,unknown,other therapy,adjuvant,,,,1st therapy - 4TC; 2nd therapy - Hormone_therapy,unknown
+294,DO225236,BRCA-EU,CGP_donor_1711728,radiation therapy,adjuvant,42.0,28.0,unknown,other therapy,adjuvant,,,,"1st therapy - 50Gyx20 + 25Gyx8; 2nd therapy - Hormone_therapy, Tam+AI",unknown
+299,DO225242,BRCA-EU,CGP_donor_1711735,radiation therapy,adjuvant,70.0,38.0,unknown,other therapy,adjuvant,112.0,,,"1st therapy - 50Gyx25 (breast) + 45Gyx25 (LNs); 2nd therapy - Hormone_therapy, 5yTAM",unknown
+304,DO225247,BRCA-EU,CGP_donor_1711740,radiation therapy,adjuvant,53.0,37.0,unknown,other therapy,adjuvant,93.0,,,"1st therapy - 50Gyx25; 2nd therapy - Hormone_therapy, TAM",unknown
+235,DO225300,BRCA-EU,CGP_donor_1825696,combined chemo+radiation therapy,adjuvant,105.0,95.0,complete response,other therapy,adjuvant,200.0,,,"1st therapy - AC (stopped after cycle 2 due to toxicity); 2nd therapy - Hormone_therapy, Letrozole, therapy still ongoing",unknown
+487,DO224815,BRCA-EU,CGP_donor_1347754,chemotherapy,adjuvant,41.0,418.0,complete response,other therapy,adjuvant,274.0,,,"1st therapy - AC Chemo(duration-38.44 days)+ taxol and herceptin(duration-81.88 days) +radiation (duration-~60.88 days)+Herceptin only(duration-255.52 days) ; 2nd therapy - Hormone_therapy, Tamoxifen - Jan 2011, therapy still ongoing",unknown
+486,DO224818,BRCA-EU,CGP_donor_1347755,chemotherapy,adjuvant,92.0,250.0,complete response,other therapy,adjuvant,239.0,,,"1st therapy - AC Chemotherapy, Taxol, Avastin; 2nd therapy - Hormone_therapy, Tamoxifen, therapy still ongoing",unknown
+489,DO224824,BRCA-EU,CGP_donor_1347759,chemotherapy,adjuvant,76.0,160.0,complete response,other therapy,adjuvant,243.0,,,"1st therapy - AC Chemotherapy, Taxol, radiation, 2nd therapy - Hormone_therapy, Tamoxifen, therapy still ongoing",unknown
+266,DO225291,BRCA-EU,CGP_donor_1817167,combined chemo+radiation therapy,adjuvant,46.0,146.0,complete response,other therapy,adjuvant,213.0,1772.0,complete response,"1st therapy - AC chemo+Radiation, 2nd therapy - Hormone_therapy, tamoxife-777aromasin",unknown
+79,DO225085,BRCA-EU,CGP_donor_1503151,combined chemo+radiation therapy,adjuvant,88.0,193.0,complete response,other therapy,adjuvant,304.0,,,"1st therapy - AC chemo+Radiation; 2nd therapy - Hormone_therapy, Letrozole, therapy still ongoing",unknown
+116,DO225049,BRCA-EU,CGP_donor_1478545,combined chemo+radiation therapy,adjuvant,68.0,154.0,complete response,other therapy,adjuvant,255.0,2395.0,complete response,"1st therapy - AC+Taxol+Radiation; 2nd therapy - Hormone_therapy, tamoxife-777aromasin",unknown
+260,DO225297,BRCA-EU,CGP_donor_1825689,combined chemo+radiation therapy,adjuvant,58.0,188.0,complete response,other therapy,adjuvant,246.0,,,"1st therapy - AC-Taxol+Radiation, 2nd therapy - Hormone_therapy, Arimidex, therapy still ongoing",unknown
+70,DO225074,BRCA-EU,CGP_donor_1503129,chemotherapy,adjuvant,102.0,82.0,complete response,other therapy,adjuvant,244.0,,,"1st therapy - AC-taxol; 2nd therapy - Hormone_therapy, Tamoxifen, therapy still ongoing",unknown
+145,DO225183,BRCA-EU,CGP_donor_1622016,chemotherapy,adjuvant,75.0,174.0,unknown,other therapy,adjuvant,274.0,,,"1st therapy - Adriamcyin/Cytoxam+ Taxol+ radiation; 2nd therapy - Hormone therapy, Tamoxifen, therapy still ongoing",unknown
+533,DO224990,BRCA-EU,CGP_donor_1451416,chemotherapy,adjuvant,55.0,91.0,complete response,other therapy,adjuvant,267.0,,,"1st therapy - Adriamycin/Cytoxan, Taxol, Radiation; 2nd therapy - Hormone_therapy, Arimidex, therapy still ongoing",unknown
+82,DO225082,BRCA-EU,CGP_donor_1503144,chemotherapy,adjuvant,84.0,127.0,unknown,other therapy,adjuvant,225.0,,,"1st therapy - Adriamycin/Cytoxan/radiation; 2nd therapy - Hormone_therapy, Tamoxifen, therapy still ongoing",unknown
+100,DO225019,BRCA-EU,CGP_donor_1472403,chemotherapy,adjuvant,,,unknown,other therapy,adjuvant,33.0,,,"1st therapy - Curative; TAC * 6 cycles; 2nd therapy - Hormone_therapy, Arimidex",unknown
+237,DO225308,BRCA-EU,CGP_donor_1833598,radiation therapy,curative,,,unknown,other therapy,adjuvant,,,,"1st therapy - FEC; 2nd therapy - Hormone_therapy, Tamoxifen",unknown
+238,DO225307,BRCA-EU,CGP_donor_1833596,no treatment,curative,,,,other therapy,adjuvant,,,,1st therapy - FEC; 2nd therapy - Tamoxifen,unknown
+309,DO225253,BRCA-EU,CGP_donor_1752872,other therapy,adjuvant,,,,no treatment,not applicable,,,,"1st therapy - Hormone_therapy, 1 month later distant metastasis",unknown
+302,DO225249,BRCA-EU,CGP_donor_1711743,other therapy,adjuvant,,,,no treatment,not applicable,,,,"1st therapy - Hormone_therapy, Tamoxifen",unknown
+485,DO224811,BRCA-EU,CGP_donor_1347748,other therapy,adjuvant,161.0,264.0,,other therapy,adjuvant,433.0,1613.0,complete response,"1st therapy - Hormone_therapy, Tamoxifen 20 mg (stopped); 2nd therapy - Hormone_therapy, Arimidex 1 mg",unknown
+127,DO225209,BRCA-EU,CGP_donor_1686150,other therapy,not applicable,21.0,67.0,,other therapy,adjuvant,89.0,139.0,,"1st therapy - Hormone_therapy, Tamoxifen 20mg/day; 2nd therapy - Hormone_therapy, Tamoxifen 20mg/day; 3rd therapy - Hormone_therapy, Femara 2.5mg/day",unknown
+146,DO225182,BRCA-EU,CGP_donor_1622014,other therapy,adjuvant,72.0,1084.0,,no treatment,not applicable,,,,"1st therapy - Hormone_therapy, Tamoxifen- stopped in 2 years at will",unknown
+454,DO224634,BRCA-EU,CGP_donor_1230782,surgery,adjuvant,,,unknown,other therapy,adjuvant,,,,1st therapy - Mastectomy; 2nd therapy - Endocrine_Therapy,unknown
+514,DO224950,BRCA-EU,CGP_donor_1400449,radiation therapy,adjuvant,,,unknown,other therapy,adjuvant,,,,"1st therapy - RT(mam), 2nd therapy - FEC/taxotere+Arimidex(start dec 2009)",unknown
+159,DO225100,BRCA-EU,CGP_donor_1518140,radiation therapy,adjuvant,,,unknown,other therapy,adjuvant,,,,"1st therapy - RT(mam,nodes); 2nd therapy - Targeted_therapy, TAM",unknown
+512,DO224948,BRCA-EU,CGP_donor_1400447,radiation therapy,adjuvant,,,unknown,other therapy,adjuvant,,,,"1st therapy - RT(mam,nodes); 2nd therapy - Targeted_therapy, TAM(2.5y)+AI(6 months)",unknown
+535,DO224995,BRCA-EU,CGP_donor_1451419,combined chemo+radiation therapy,adjuvant,55.0,173.0,complete response,other therapy,adjuvant,250.0,,,"1st therapy - TAC + Radiation; 2nd therapy - Hormone_therapy, Tamoxifen, therapy still ongoing",unknown
+64,DO225063,BRCA-EU,CGP_donor_1502912,chemotherapy,adjuvant,,,unknown,other therapy,adjuvant,,,,"1st therapy - TAC; 2nd therapy - Targeted_therapy, tamoxifen",unknown
+463,DO224709,BRCA-EU,CGP_donor_1333050,other therapy,adjuvant,,,,chemotherapy,adjuvant,,,unknown,"1st therapy - Tamoxifen not used (known), 2nd therapy - CMF",unknown
+464,DO224704,BRCA-EU,CGP_donor_1333049,other therapy,adjuvant,,,,chemotherapy,adjuvant,,,unknown,1st therapy - Tamoxifen not used (known); 2nd therapy - Anthracyclin,unknown
+466,DO224713,BRCA-EU,CGP_donor_1333051,other therapy,adjuvant,,,,chemotherapy,adjuvant,,,unknown,"1st therapy - Targeted_therapy, Tamoxifen; 2nd therapy - Anthracyclin",unknown
+465,DO224717,BRCA-EU,CGP_donor_1333052,other therapy,adjuvant,,,,chemotherapy,adjuvant,,,unknown,"1st therapy - Targeted_therapy, Tamoxifen; 2nd therapy - Anthracyclin",unknown
+446,DO224697,BRCA-EU,CGP_donor_1333045,other therapy,adjuvant,,,,chemotherapy,adjuvant,,,unknown,"1st therapy - Targeted_therapy,Tamoxifen; 2nd therapy - Anthracyclin",unknown
+69,DO225076,BRCA-EU,CGP_donor_1503130,combined chemo+radiation therapy,adjuvant,91.0,121.0,complete response,other therapy,adjuvant,,,,"1st therapy - Taxotere/Cytoxan+ rad( end date of rad NA; ~ 4 wks; included in therapy1 duration); 2nd therapy - Hormone_therapy, con't of her Aromatase inhibitor from 2005 cancer. Therapy still ongoing",unknown
+80,DO225084,BRCA-EU,CGP_donor_1503148,chemotherapy,adjuvant,114.0,62.0,unknown,other therapy,adjuvant,248.0,,,"1st therapy - Taxotere/Cytoxan; 2nd therapy - Hormone_therapy, Tamoxifen (9 months- menopausal status change to post); Letrozole on 7/2012. Therapy still ongoing",unknown
+59,DO225051,BRCA-EU,CGP_donor_1478547,combined chemo+radiation therapy,adjuvant,103.0,167.0,complete response,other therapy,adjuvant,277.0,,,"1st therapy - ddAC-taxol +Radiation; 2nd therapy - Hormone_therapy, Tamoxifen, therapy still ongoing",unknown
+348,DO225290,BRCA-EU,CGP_donor_1817152,radiation therapy,adjuvant,,,unknown,other therapy,adjuvant,,,,"1st therapy - in Canada; 2nd therapy - Hormone_therapy, tamoxifen, Ovarian supression, zometa. Therapy still ongoing",unknown
+68,DO225077,BRCA-EU,CGP_donor_1503132,radiation therapy,adjuvant,152.0,30.0,unknown,other therapy,adjuvant,365.0,,,"1st therapy - note** patient had rad. At another hospital so no specific dates given; Columns CE and CF calculate based on info given in the notes and assumption that she had 4 cycles of rad and her rad. Therapy lasted a month; 2nd therapy - Hormone_therapy, Tamoxifen, therapy still ongoing",unknown
+504,DO224879,BRCA-EU,CGP_donor_1363970,other therapy,adjuvant,,,,no treatment,not applicable,,,,"1st therapy -Targeted_therapy, Tamoxifen not used (known); 2nd therapy - Chemotherapy not used (known)",unknown
+534,DO224996,BRCA-EU,CGP_donor_1451421,radiation therapy,adjuvant,111.0,24.0,complete response,other therapy,adjuvant,316.0,,disease progression,"2nd therapy - Hormone_therapy, Anastrozole, therapy still ongoing",unknown
+346,DO225289,BRCA-EU,CGP_donor_1817151,radiation therapy,adjuvant,91.0,43.0,complete response,other therapy,adjuvant,61.0,,,"2nd therapy - Hormone_therapy, Arimidex, therapy still ongoing",unknown
+259,DO225298,BRCA-EU,CGP_donor_1825690,radiation therapy,adjuvant,75.0,42.0,complete response,other therapy,adjuvant,126.0,,,"2nd therapy - Hormone_therapy, Tamoxifen, therapy still ongoing",unknown
+93,DO225001,BRCA-EU,CGP_donor_1451424,radiation therapy,adjuvant,77.0,47.0,complete response,other therapy,adjuvant,128.0,,,"2nd therapy - Hormone_therapy, Tamoxifen, therapy still ongoing",unknown
+230,DO225305,BRCA-EU,CGP_donor_1830029,radiation therapy,adjuvant,,,unknown,other therapy,adjuvant,,,,"2nd therapy - Hormone_therapy, tamoxifen",unknown
+233,DO225302,BRCA-EU,CGP_donor_1830023,radiation therapy,adjuvant,,,unknown,other therapy,adjuvant,,,,"2nd therapy - Hormone_therapy, tamoxifen",unknown
+95,DO225007,BRCA-EU,CGP_donor_1456475,radiation therapy,adjuvant,,,unknown,other therapy,adjuvant,,,,"2nd therapy - Hormone_therapy, tamoxifen",unknown
+560,DO218269,BRCA-EU,CGP_donor_1234120,radiation therapy,adjuvant,,,unknown,other therapy,adjuvant,,,,4x chemo(AC)+TAM(2.5y)/AI(2.5y),unknown
+8,DO218502,BRCA-EU,CGP_donor_1234121,radiation therapy,adjuvant,,,unknown,other therapy,adjuvant,,,,5x FEC + TAM/AI,unknown
+2,DO218478,BRCA-EU,CGP_donor_1364029,radiation therapy,adjuvant,,,unknown,other therapy,adjuvant,,,,5x FEC+TAM(5y),unknown
+26,DO218698,BRCA-EU,CGP_donor_1234122,radiation therapy,adjuvant,,,unknown,other therapy,adjuvant,,,,6x TAC+TAM(2.5y)/AI(2.5y),unknown
+52,DO217844,BRCA-EU,CGP_donor_1234123,radiation therapy,adjuvant,,,unknown,other therapy,adjuvant,,,,6x TAC+TAM(2.5y)/AI(2.5y),unknown
+476,DO224887,BRCA-EU,CGP_donor_1374608,other therapy,adjuvant,,,complete response,no treatment,not applicable,,,,Anastrozole,unknown
+5,DO218419,BRCA-EU,CGP_donor_1333048,other therapy,adjuvant,,,,chemotherapy,adjuvant,,,unknown,Anthracyclin,unknown
+562,DO218212,BRCA-EU,CGP_donor_1333047,other therapy,adjuvant,,,,chemotherapy,adjuvant,,,unknown,CMF,unknown
+227,DO225168,BRCA-EU,CGP_donor_1606177,other therapy,adjuvant,45.0,90.0,complete response,no treatment,not applicable,,,,Combined - Chemo+Hormone,unknown
+283,DO225226,BRCA-EU,CGP_donor_1701348,other therapy,adjuvant,,,,no treatment,not applicable,,,,Combined - Chemo+Hormone,unknown
+284,DO225225,BRCA-EU,CGP_donor_1701346,other therapy,adjuvant,,,,no treatment,not applicable,,,,Combined - Chemo+Hormone,unknown
+311,DO225251,BRCA-EU,CGP_donor_1752868,other therapy,adjuvant,26.0,,,no treatment,not applicable,,,,"Combined - Chemo+Hormone, 3xFEC/3xtaxotere+ hormone untill relapse",unknown
+312,DO225250,BRCA-EU,CGP_donor_1752867,other therapy,adjuvant,54.0,,,no treatment,not applicable,,,,"Combined - Chemo+Hormone, 3xFEC/3xtaxotere+5y hormone",unknown
+310,DO225252,BRCA-EU,CGP_donor_1752870,other therapy,adjuvant,28.0,,,no treatment,not applicable,,,,"Combined - Chemo+Hormone, 3xFEC/3xtaxotere+5y hormone",unknown
+555,DO218167,BRCA-EU,CGP_donor_1347756,other therapy,adjuvant,99.0,974.0,disease progression,no treatment,not applicable,,,,"Combined - Chemo+Hormone, Arimidex, Faslodex, Xeloda, Navelbine,Taxotere",unknown
+226,DO225169,BRCA-EU,CGP_donor_1606178,other therapy,adjuvant,50.0,630.0,complete response,no treatment,not applicable,,,,"Combined - Chemo+Targeted_therapy, TaxGem+Herceptin",unknown
+287,DO225222,BRCA-EU,CGP_donor_1701342,other therapy,adjuvant,34.0,,,no treatment,not applicable,,,,"Combined - Radio+Hormone, hormone therapy untill death",unknown
+49,DO217908,BRCA-EU,CGP_donor_1230796,radiation therapy,adjuvant,,,unknown,other therapy,adjuvant,,,,Hormone therapy,unknown
+558,DO218121,BRCA-EU,CGP_donor_1230797,radiation therapy,adjuvant,,,unknown,other therapy,adjuvant,,,,Hormone therapy,unknown
+334,DO225270,BRCA-EU,CGP_donor_1752938,radiation therapy,curative,,50.0,unknown,other therapy,adjuvant,,,,Hormone_therapy,unknown
+321,DO225262,BRCA-EU,CGP_donor_1752925,chemotherapy,curative,,105.0,unknown,other therapy,adjuvant,,,,Hormone_therapy,unknown
+327,DO225266,BRCA-EU,CGP_donor_1752929,radiation therapy,curative,,30.0,unknown,other therapy,adjuvant,,,,Hormone_therapy,unknown
+315,DO225257,BRCA-EU,CGP_donor_1752917,other therapy,curative,,,,chemotherapy,adjuvant,,108.0,unknown,Hormone_therapy,unknown
+320,DO225263,BRCA-EU,CGP_donor_1752926,other therapy,curative,,,,radiation therapy,adjuvant,,,unknown,Hormone_therapy,unknown
+523,DO224975,BRCA-EU,CGP_donor_1410211,radiation therapy,curative,,55.0,unknown,other therapy,adjuvant,,,,Hormone_therapy,unknown
+332,DO225272,BRCA-EU,CGP_donor_1752940,radiation therapy,curative,,36.0,unknown,other therapy,adjuvant,,,,Hormone_therapy,unknown
+324,DO225269,BRCA-EU,CGP_donor_1752935,other therapy,curative,,,,chemotherapy,adjuvant,,106.0,unknown,Hormone_therapy,unknown
+1,DO218488,BRCA-EU,CGP_donor_1451422,chemotherapy,adjuvant,100.0,182.0,unknown,other therapy,adjuvant,262.0,,,Hormone_therapy,therapy still ongoing
+133,DO225173,BRCA-EU,CGP_donor_1606183,other therapy,adjuvant,40.0,720.0,complete response,no treatment,not applicable,,,,Hormone_therapy,unknown
+223,DO225162,BRCA-EU,CGP_donor_1606168,other therapy,adjuvant,25.0,1800.0,complete response,no treatment,not applicable,,,,Hormone_therapy,unknown
+313,DO225259,BRCA-EU,CGP_donor_1752921,radiation therapy,curative,,50.0,unknown,other therapy,adjuvant,,,,Hormone_therapy,unknown
+316,DO225256,BRCA-EU,CGP_donor_1752877,other therapy,adjuvant,,,,no treatment,not applicable,,,,Hormone_therapy (5 years),unknown
+33,DO218719,BRCA-EU,CGP_donor_1503128,other therapy,adjuvant,61.0,,,no treatment,not applicable,,,,"Hormone_therapy, Anastrazole (Arimidex)",therapy still ongoing
+18,DO220820,BRCA-EU,CGP_donor_1337240,other therapy,adjuvant,,,,no treatment,not applicable,,,,"Hormone_therapy, Anastrozole",unknown
+43,DO217786,BRCA-EU,CGP_donor_1337220,radiation therapy,adjuvant,,28.0,unknown,other therapy,adjuvant,67.0,,stable disease,"Hormone_therapy, Arimidex",unknown
+22,DO220827,BRCA-EU,CGP_donor_1472409,other therapy,adjuvant,34.0,,stable disease,no treatment,not applicable,,,,"Hormone_therapy, Arimidex",unknown
+46,DO217931,BRCA-EU,CGP_donor_1503150,chemotherapy,adjuvant,108.0,213.0,unknown,other therapy,adjuvant,264.0,,,"Hormone_therapy, Arimidex",therapy still ongoing
+554,DO218168,BRCA-EU,CGP_donor_1347751,chemotherapy,adjuvant,81.0,137.0,complete response,other therapy,adjuvant,220.0,939.0,disease progression,"Hormone_therapy, Arimidex 1 mg",unknown
+138,DO225178,BRCA-EU,CGP_donor_1606192,other therapy,adjuvant,60.0,660.0,complete response,no treatment,not applicable,,,,"Hormone_therapy, Aromatase inhib",unknown
+136,DO225170,BRCA-EU,CGP_donor_1606179,other therapy,adjuvant,30.0,720.0,complete response,no treatment,not applicable,,,,"Hormone_therapy, Exemestane",unknown
+565,DO218388,BRCA-EU,CGP_donor_1337241,other therapy,adjuvant,60.0,,,no treatment,not applicable,,,,"Hormone_therapy, Exemestane 25mg daily",unknown
+330,DO225274,BRCA-EU,CGP_donor_1801377,other therapy,adjuvant,,,,no treatment,not applicable,,,,"Hormone_therapy, Femara",unknown
+104,DO225023,BRCA-EU,CGP_donor_1472410,other therapy,adjuvant,,,,no treatment,not applicable,,,,"Hormone_therapy, Femara",unknown
+245,DO225311,BRCA-EU,CGP_donor_1835945,other therapy,adjuvant,6.0,1826.0,,no treatment,not applicable,,,,"Hormone_therapy, TAM",unknown
+17,DO220825,BRCA-EU,CGP_donor_1451426,chemotherapy,adjuvant,79.0,62.0,unknown,other therapy,adjuvant,168.0,,,"Hormone_therapy, Tamoxifen",therapy still ongoing
+19,DO220822,BRCA-EU,CGP_donor_1230755,other therapy,not applicable,,,,no treatment,not applicable,,,,"Hormone_therapy, Tamoxifen",unknown
+559,DO218279,BRCA-EU,CGP_donor_1503133,other therapy,adjuvant,152.0,,,no treatment,not applicable,,,,"Hormone_therapy, Tamoxifen",therapy still ongoing
+36,DO218770,BRCA-EU,CGP_donor_1397088,chemotherapy,adjuvant,96.0,91.0,complete response,other therapy,adjuvant,159.0,,,"Hormone_therapy, Tamoxifen",therapy still ongoing
+40,DO217826,BRCA-EU,CGP_donor_1163904,chemotherapy,adjuvant,88.0,66.0,complete response,other therapy,adjuvant,182.0,,,"Hormone_therapy, Tamoxifen",unknown
+556,DO218159,BRCA-EU,CGP_donor_1503156,chemotherapy,adjuvant,150.0,206.0,unknown,other therapy,adjuvant,365.0,,,"Hormone_therapy, Tamoxifen",therapy still ongoing
+566,DO218377,BRCA-EU,CGP_donor_1503140,other therapy,adjuvant,132.0,,,no treatment,not applicable,,,,"Hormone_therapy, Tamoxifen",therapy still ongoing
+57,DO225056,BRCA-EU,CGP_donor_1499738,other therapy,not applicable,,,,no treatment,not applicable,,,,"Hormone_therapy, Tamoxifen",unknown
+420,DO224553,BRCA-EU,CGP_donor_1114881,other therapy,adjuvant,,,,no treatment,not applicable,,,,"Hormone_therapy, Tamoxifen",unknown
+430,DO224590,BRCA-EU,CGP_donor_1199104,other therapy,not applicable,,,,no treatment,not applicable,,,,"Hormone_therapy, Tamoxifen",unknown
+135,DO225171,BRCA-EU,CGP_donor_1606180,other therapy,adjuvant,25.0,730.0,complete response,no treatment,not applicable,,,,"Hormone_therapy, Tamoxifen",unknown
+536,DO224992,BRCA-EU,CGP_donor_1451418,other therapy,adjuvant,51.0,,,no treatment,not applicable,,,,"Hormone_therapy, Tamoxifen, therapy still ongoing",unknown
+23,DO218621,BRCA-EU,CGP_donor_1397284,radiation therapy,adjuvant,,,unknown,other therapy,adjuvant,,,,"Hormone_therapy, anastrozol/letrozol",unknown
+286,DO225223,BRCA-EU,CGP_donor_1701343,other therapy,adjuvant,,,,no treatment,not applicable,,,,"Hormone_therapy, for distant metastases",unknown
+219,DO225166,BRCA-EU,CGP_donor_1606172,other therapy,adjuvant,50.0,900.0,complete response,no treatment,not applicable,,,,"Hormone_therapy, tam+LHRH-a",unknown
+3,DO218457,BRCA-EU,CGP_donor_1397277,chemotherapy,adjuvant,,,complete response,other therapy,adjuvant,,,complete response,"Hormone_therapy, tamoxifen",unknown
+220,DO225165,BRCA-EU,CGP_donor_1606171,other therapy,adjuvant,65.0,60.0,complete response,no treatment,not applicable,,,,"Hormone_therapy, tamoxifen",unknown
+551,DO218176,BRCA-EU,CGP_donor_1397282,chemotherapy,adjuvant,,,complete response,other therapy,adjuvant,,,,"Hormone_therapy, tamoxifen",unknown
+55,DO217953,BRCA-EU,CGP_donor_1397281,chemotherapy,adjuvant,,,complete response,other therapy,adjuvant,,,,"Hormone_therapy, tamoxifen",unknown
+557,DO218150,BRCA-EU,CGP_donor_1337214,radiation therapy,adjuvant,,28.0,unknown,other therapy,adjuvant,90.0,,,Tamoxifen,unknown
+6,DO218404,BRCA-EU,CGP_donor_1374616,other therapy,adjuvant,,1826.0,complete response,no treatment,not applicable,,,,"Targeted_therapy, 5yr tamoxifen",unknown
+87,DO225098,BRCA-EU,CGP_donor_1518138,other therapy,adjuvant,,,,no treatment,not applicable,,,,"Targeted_therapy, Arimidex",unknown
+37,DO218831,BRCA-EU,CGP_donor_1374618,other therapy,adjuvant,,,disease progression,no treatment,not applicable,,,,"Targeted_therapy, Arimidex",unknown
+48,DO217907,BRCA-EU,CGP_donor_1364033,other therapy,adjuvant,,,,no treatment,not applicable,,,,"Targeted_therapy, TAM(2.5y)/AI(2.5y)",unknown
+543,DO224914,BRCA-EU,CGP_donor_1380602,other therapy,not applicable,,,,other therapy,adjuvant,,,,Unknown (Treatment data currently not available),unknown
+526,DO224978,BRCA-EU,CGP_donor_1410233,other therapy,not applicable,,,,other therapy,adjuvant,,,,Unknown (data on treatment currently not available),unknown
+505,DO224920,BRCA-EU,CGP_donor_1380605,other therapy,not applicable,,,,other therapy,adjuvant,,,,Unknown (data on treatment currently not available),unknown
+542,DO224917,BRCA-EU,CGP_donor_1380603,other therapy,not applicable,,,,other therapy,adjuvant,,,,Unknown (data on treatment currently not available),unknown
+131,DO225175,BRCA-EU,CGP_donor_1606187,other therapy,not applicable,25.0,410.0,complete response,no treatment,not applicable,,,,surgery+Hormone_therapy,unknown
+224,DO225161,BRCA-EU,CGP_donor_1606167,other therapy,not applicable,15.0,300.0,complete response,no treatment,not applicable,,,,"surgery+chemotherapy, FECx6",unknown
+130,DO225176,BRCA-EU,CGP_donor_1606188,other therapy,not applicable,4100.0,180.0,complete response,no treatment,not applicable,,,,"surgery+chemotherapy, cmfx6",unknown
