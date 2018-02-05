@@ -1,4 +1,4 @@
-# summer_project_17
+Drug-gene-patient network
 
 All the datasets are gathered from publicly available sources to construct the drug-gene-patient network. 
 
